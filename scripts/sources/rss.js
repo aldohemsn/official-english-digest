@@ -2,7 +2,7 @@ import RSSParser from 'rss-parser';
 import { JSDOM } from 'jsdom';
 import { Readability } from '@mozilla/readability';
 import { isSeen, markSeen } from '../lib/seen-urls.js';
-import { writeArticleFile } from '../lib/article.js';
+import { writeArticleFile, slugify } from '../lib/article.js';
 
 const parser = new RSSParser();
 
@@ -16,10 +16,10 @@ async function extractBody(url, fetchFn) {
     if (!res.ok) return null;
     const html = await res.text();
     const dom = new JSDOM(html, { url });
-    const reader = new Readability(dom.window.document);
+    const reader = new Readability(dom.window.document.cloneNode(true));
     const parsed = reader.parse();
     if (parsed?.textContent?.trim().length > 100) return parsed.textContent.trim();
-    // fallback: raw body text
+    // fallback: raw body text from original (unmodified) DOM
     const bodyText = dom.window.document.body?.textContent?.trim() ?? '';
     return bodyText.length > 100 ? bodyText : null;
   } catch {
@@ -39,7 +39,11 @@ export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = 
       feedXml = await res.text();
     } catch { continue; }
 
-    const { items = [] } = await parser.parseString(feedXml);
+    let items = [];
+    try {
+      const parsed = await parser.parseString(feedXml);
+      items = parsed.items ?? [];
+    } catch { continue; }
 
     for (const item of items) {
       const url = item.link;
@@ -50,7 +54,7 @@ export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = 
       const date = (pub ?? new Date()).toISOString().slice(0, 10);
       const body = await extractBody(url, fetchFn);
       const meta = {
-        id: `${date}-${(item.title ?? 'untitled').toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 50)}`,
+        id: `${date}-${slugify(item.title ?? 'untitled').slice(0, 50)}`,
         title: item.title ?? 'Untitled',
         source: hostOf(url),
         url,
