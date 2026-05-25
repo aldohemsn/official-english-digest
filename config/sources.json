@@ -5,7 +5,7 @@
       { "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "topics": ["world", "news"] },
       { "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "topics": ["business", "economy"] },
       { "url": "https://www.economist.com/finance-and-economics/rss.xml", "topics": ["economy", "finance"] },
-      { "url": "https://feeds.feedburner.com/TechCrunch", "topics": ["technology", "AI"] },
+      { "url": "https://techcrunch.com/feed/", "topics": ["technology", "AI"] },
       { "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "topics": ["world", "US"] }
     ]
   },

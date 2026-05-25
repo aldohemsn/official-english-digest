@@ -7,6 +7,8 @@ A daily-refreshed reading list for English coaching sessions with Grok.
 1. Grok Settings → Connectors → GitHub → authorize → select this repo
 2. Done — Grok can browse your reading list during any conversation
 
+> **Note:** The repo must be public (or you must grant the Grok GitHub App access to private repos during OAuth authorization).
+
 ## Using in a session
 
 Start with the "With Connector Active" prompt from the [English coach doc](https://github.com/aldohe/grok-audio/blob/main/docs/superpowers/specs/2026-05-25-grok-english-coach-prompt.md), then try:
@@ -28,7 +30,7 @@ Start with the "With Connector Active" prompt from the [English coach doc](https
 ## Running locally
 
 ```bash
-npm install
+npm ci
 NEWSAPI_KEY=your_key npm run fetch
 npm run build
 npm test
