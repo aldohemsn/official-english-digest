@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 export function slugify(title) {
   return title
     .toLowerCase()
-    .replace(/['']/g, '')
+    .replace(/[''']/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '')
     .slice(0, 60);

@@ -13,6 +13,10 @@ test('slugify truncates at 60 chars', () => {
   assert.ok(slugify('a'.repeat(100)).length <= 60);
 });
 
+test('slugify strips curly apostrophes', () => {
+  assert.equal(slugify('’s AI Race'), 's-ai-race');
+});
+
 test('articleFilename formats date-slug', () => {
   assert.equal(articleFilename('2026-05-25', 'Hello World'), '2026-05-25-hello-world.md');
 });
