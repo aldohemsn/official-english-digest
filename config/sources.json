@@ -1,0 +1,30 @@
+{
+  "rss": {
+    "maxAgeDays": 2,
+    "feeds": [
+      { "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "topics": ["world", "news"] },
+      { "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "topics": ["business", "economy"] },
+      { "url": "https://www.economist.com/finance-and-economics/rss.xml", "topics": ["economy", "finance"] },
+      { "url": "https://feeds.feedburner.com/TechCrunch", "topics": ["technology", "AI"] },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "topics": ["world", "US"] }
+    ]
+  },
+  "newsapi": {
+    "topics": [
+      "artificial intelligence",
+      "US China relations",
+      "global economy",
+      "geopolitics"
+    ],
+    "language": "en",
+    "pageSize": 10
+  },
+  "scrape": [
+    {
+      "name": "ChinaDaily",
+      "domain": "chinadaily.com.cn",
+      "indexUrl": "https://www.chinadaily.com.cn/a/trending.html",
+      "topics": ["China", "world"]
+    }
+  ]
+}
