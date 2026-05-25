@@ -1,1 +1,1137 @@
-{ "v": 1, "updated_at": null, "articles": [] }
+{
+  "v": 1,
+  "updated_at": "2026-05-25T15:56:16.285Z",
+  "articles": [
+    {
+      "id": "2026-05-25-what-to-know-about-the-potential-u-s-iran-peace-de",
+      "title": "What to Know About the Potential U.S.-Iran Peace Deal",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-what-to-know-about-the-potential-u-s-iran-peace-deal.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-uk-heat-wave-could-break-may-temperature-record",
+      "title": "UK Heat Wave Could Break May Temperature Record",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-uk-heat-wave-could-break-may-temperature-record.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-trump-s-pressure-had-little-effect-on-iran-s-terms",
+      "title": "Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-trump-s-pressure-had-little-effect-on-iran-s-terms-for-a-pea.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "date": "2026-05-25",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-the-pitch-trick-that-helped-an-esports-startup-rai",
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "date": "2026-05-25",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-25-the-pitch-trick-that-helped-an-esports-startup-raise-20m-whe.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-the-oscars-start-at-cannes",
+      "title": "The Oscars Start at Cannes",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/cannes-festival-fjord-iran-deal.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-the-oscars-start-at-cannes.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-suspect-killed-after-opening-fire-on-secret-servic",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-suspect-killed-after-opening-fire-on-secret-service-near-whi.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-startup-battlefield-200-applications-close-in-days",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "date": "2026-05-25",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-25-startup-battlefield-200-applications-close-in-days-apply-bef.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-senegals-leadership-row-mounts-as-parliament-speak",
+      "title": "Senegal's leadership row mounts as parliament speaker resigns",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-senegals-leadership-row-mounts-as-parliament-speaker-resigns.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-rubio-says-u-s-india-ties-are-strong-despite-fury-",
+      "title": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-rubio-says-u-s-india-ties-are-strong-despite-fury-over-trump.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-rubio-rebukes-hezbollah-chief-over-call-for-lebane",
+      "title": "Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-rubio-rebukes-hezbollah-chief-over-call-for-lebanese-to-take.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-pope-leo-warns-of-risks-from-a-i-in-42-300-word-en",
+      "title": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-pope-leo-warns-of-risks-from-a-i-in-42-300-word-encyclical.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-pope-leo-has-released-an-encyclical-about-a-i-why-",
+      "title": "Pope Leo Has Released an Encyclical About A.I. Why Is That Important?",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-pope-leo-has-released-an-encyclical-about-a-i-why-is-that-im.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-one-of-madagascar-s-oldest-sacred-trees-is-slowly-",
+      "title": "One of Madagascar’s Oldest Sacred Trees Is Slowly Dying",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/africa/baobab-tree-dying-madagascar-africa.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-one-of-madagascar-s-oldest-sacred-trees-is-slowly-dying.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-oil-prices-slide-on-hopes-of-us-iran-peace-deal",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-oil-prices-slide-on-hopes-of-us-iran-peace-deal.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-moment-of-gas-explosion-at-china-coal-mine",
+      "title": "Moment of gas explosion at China coal mine",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-moment-of-gas-explosion-at-china-coal-mine.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-large-scale-russian-attack-on-ukraine-leaves-four-",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-large-scale-russian-attack-on-ukraine-leaves-four-dead-and-d.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-kyiv-ukraine-hit-in-russian-missile-attack",
+      "title": "Kyiv, Ukraine, Hit in Russian Missile Attack",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-kyiv-ukraine-hit-in-russian-missile-attack.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-iran-war-live-updates-top-iranian-negotiators-arri",
+      "title": "Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-iran-war-live-updates-top-iranian-negotiators-arrive-in-qata.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-in-city-at-center-of-ebola-crisis-the-virus-is-far",
+      "title": "In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-in-city-at-center-of-ebola-crisis-the-virus-is-far-ahead-of-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-i-live-in-survival-mode-the-rise-of-the-multi-job-",
+      "title": "'I live in survival mode': The rise of the multi-job workforce",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-25-i-live-in-survival-mode-the-rise-of-the-multi-job-workforce.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-i-dont-think-ill-ever-be-able-to-retire",
+      "title": "'I don't think I'll ever be able to retire'",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cd6pn9y36p8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-25-i-dont-think-ill-ever-be-able-to-retire.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-how-wine-truffles-and-honey-could-help-europe-figh",
+      "title": "How Wine, Truffles and Honey Could Help Europe Fight Wildfires",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-how-wine-truffles-and-honey-could-help-europe-fight-wildfire.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-how-saudi-arabias-spending-spree-reached-the-end-o",
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-how-saudi-arabias-spending-spree-reached-the-end-of-the-line.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-here-s-the-latest",
+      "title": "Here’s the latest.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/heres-the-latest",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-here-s-the-latest.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-first-hong-kong-astronaut-launches-into-space-onbo",
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-first-hong-kong-astronaut-launches-into-space-onboard-chines.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-deal-with-us-not-imminent-iran-says",
+      "title": "Deal with US not imminent, Iran says",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-deal-with-us-not-imminent-iran-says.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-currently-no-active-leak-from-failing-chemical-tan",
+      "title": "Currently no active leak from failing chemical tank, California officials say",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-currently-no-active-leak-from-failing-chemical-tank-californ.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-cubans-cook-with-charcoal-and-wood-fires-to-surviv",
+      "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-cubans-cook-with-charcoal-and-wood-fires-to-survive-during-e.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-clashes-as-venezuelan-prisoners-protest-over-alleg",
+      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-clashes-as-venezuelan-prisoners-protest-over-alleged-mistrea.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-chinadaily-home-page",
+      "title": "Chinadaily home page",
+      "source": "ChinaDaily",
+      "url": "https://www.chinadaily.com.cn//www.chinadaily.com.cn",
+      "date": "2026-05-25",
+      "topics": [
+        "China",
+        "world"
+      ],
+      "file": "articles/2026-05-25-chinadaily-home-page.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-can-concrete-molds-revive-coral-reefs-ruined-by-bo",
+      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-cl.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-beer-boom-goes-flat-as-breweries-call-last-orders",
+      "title": "Beer boom goes flat as breweries call last orders",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-25-beer-boom-goes-flat-as-breweries-call-last-orders.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-at-least-19-people-taken-to-hospital-after-strong-",
+      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-at-least-19-people-taken-to-hospital-after-strong-smell-repo.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-anger-grows-after-chinas-deadliest-coal-mining-dis",
+      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-anger-grows-after-chinas-deadliest-coal-mining-disaster-in-y.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-a-deal-with-the-u-s-would-be-preliminary-and-focus",
+      "title": "A deal with the U.S. would be preliminary and focused on ending the war, an Iranian official says.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/a-deal-with-the-us-would-be-preliminary-and-focused-on-ending-war-iranian-official-says",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-a-deal-with-the-u-s-would-be-preliminary-and-focused-on-endi.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-a-city-in-the-kill-zone",
+      "title": "A City in the Kill Zone",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/a-city-in-the-kill-zone.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-a-city-in-the-kill-zone.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-5-days-left-save-up-to-410-on-techcrunch-disrupt-2",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "date": "2026-05-25",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-25-5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-xreal-google-s-smartglasses-partner-thinks-it-has-",
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "date": "2026-05-24",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-24-xreal-google-s-smartglasses-partner-thinks-it-has-finally-ma.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-uk-institute-is-hunting-for-dangers-lurking-in-ai",
+      "title": "UK Institute Is Hunting for Dangers Lurking in AI",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-uk-institute-is-hunting-for-dangers-lurking-in-ai.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-turkish-riot-police-storm-opposition-offices-after",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-turkish-riot-police-storm-opposition-offices-after-leaders-o.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-trump-s-pursuit-of-a-partnership-with-china-raises",
+      "title": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-trump-s-pursuit-of-a-partnership-with-china-raises-concerns-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-these-are-5-of-the-main-issues-to-be-resolved-in-a",
+      "title": "These Are 5 of the Main Issues to Be Resolved in an Iran-U.S. Peace Deal",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-these-are-5-of-the-main-issues-to-be-resolved-in-an-iran-u-s.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-the-dreamie-alarm-clock-got-me-to-stop-using-my-ph",
+      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+      "date": "2026-05-24",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-24-the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-techcrunch-mobility-robotaxi-reality-check",
+      "title": "TechCrunch Mobility: Robotaxi reality check",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "date": "2026-05-24",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-24-techcrunch-mobility-robotaxi-reality-check.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-six-eggs-used-to-be-1-why-everyday-essentials-cost",
+      "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-24-six-eggs-used-to-be-1-why-everyday-essentials-cost-so-much-m.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-she-was-told-to-marry-in-a-country-which-bans-girl",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-she-was-told-to-marry-in-a-country-which-bans-girls-educatio.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-shameful-more-spent-on-benefits-than-jobs-for-youn",
+      "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-24-shameful-more-spent-on-benefits-than-jobs-for-young-people-s.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-senate-republicans-cast-doubt-on-a-potential-peace",
+      "title": "Senate Republicans Cast Doubt on a Potential Peace Deal With Iran",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-senate-republicans-cast-doubt-on-a-potential-peace-deal-with.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-rubio-says-details-on-iran-nuclear-program-still-t",
+      "title": "Rubio Says Details on Iran Nuclear Program Still to Be Negotiated",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/rubio-iran-nuclear.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-rubio-says-details-on-iran-nuclear-program-still-to-be-negot.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-one-killed-and-many-feared-trapped-under-collapsed",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-one-killed-and-many-feared-trapped-under-collapsed-building-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-morocco-wants-tourists-to-visit-western-sahara-som",
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-morocco-wants-tourists-to-visit-western-sahara-some-say-its-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-many-questions-few-details-in-latest-iran-peace-pr",
+      "title": "Many Questions, Few Details in Latest Iran Peace Proposal",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-many-questions-few-details-in-latest-iran-peace-proposal.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-man-killed-in-shark-attack-off-australias-north-ea",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-man-killed-in-shark-attack-off-australias-north-east-coast.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-its-like-the-olympics-except-steroids-are-allowed",
+      "title": "It's like the Olympics - except steroids are allowed",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-its-like-the-olympics-except-steroids-are-allowed.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-israeli-leader-says-he-and-trump-agree-on-blocking",
+      "title": "Israeli Leader Says He and Trump Agree On Blocking an Iranian Nuclear Weapon",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-israeli-leader-says-he-and-trump-agree-on-blocking-an-irania.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-israel-s-president-isaac-herzog-denounces-israeli-",
+      "title": "Israel’s President, Isaac Herzog, Denounces Israeli Violence",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-israel-s-president-isaac-herzog-denounces-israeli-violence.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-iranian-officials-say-proposed-peace-deal-would-op",
+      "title": "Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-iranian-officials-say-proposed-peace-deal-would-open-strait-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-iran-projects-victory-in-potential-deal-with-washi",
+      "title": "Iran Projects Victory in Potential Deal With Washington",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-iran-projects-victory-in-potential-deal-with-washington.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-iran-agreed-to-give-up-enriched-uranium-in-deal-an",
+      "title": "Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-iran-agreed-to-give-up-enriched-uranium-in-deal-announced-by.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-indian-billionaires-buy-foreign-companies-as-growt",
+      "title": "Indian billionaires buy foreign companies as growth slows at home",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-indian-billionaires-buy-foreign-companies-as-growth-slows-at.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-in-ukraine-a-divisive-20th-century-hero-comes-home",
+      "title": "In Ukraine, a Divisive 20th-Century Hero Comes Home",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-in-ukraine-a-divisive-20th-century-hero-comes-home.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-i-tried-amazon-s-bee-wearable-and-am-both-intrigue",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "date": "2026-05-24",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-24-i-tried-amazon-s-bee-wearable-and-am-both-intrigued-and-slig.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-how-a-curious-fifa-deal-gave-fox-a-huge-bargain-fo",
+      "title": "How a Curious FIFA Deal Gave Fox a Huge Bargain for World Cup Broadcast Rights",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-how-a-curious-fifa-deal-gave-fox-a-huge-bargain-for-world-cu.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-here-s-the-latest",
+      "title": "Here’s the latest.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-here-s-the-latest.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-fate-of-war-in-lebanon-rests-mostly-with-outside-p",
+      "title": "Fate of War in Lebanon Rests Mostly With Outside Powers",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-fate-of-war-in-lebanon-rests-mostly-with-outside-powers.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-everyone-is-navigating-ai-security-in-real-time-ev",
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "date": "2026-05-24",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-ebola-outbreak-poses-massive-challenges-warns-nurs",
+      "title": "Ebola outbreak poses massive challenges, warns nurse",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-ebola-outbreak-poses-massive-challenges-warns-nurse.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-do-u-s-automakers-have-a-future-in-canada",
+      "title": "Do U.S. Automakers Have a Future in Canada?",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-do-u-s-automakers-have-a-future-in-canada.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-citys-living-costs-drive-workers-to-food-banks",
+      "title": "City's living costs drive workers to food banks ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cj4pzwg2ddlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-24-citys-living-costs-drive-workers-to-food-banks.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-bolivian-ministers-convoy-ambushed-while-overseein",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-bolivian-ministers-convoy-ambushed-while-overseeing-roadbloc.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-blast-targeting-train-kills-at-least-20-in-pakista",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-blast-targeting-train-kills-at-least-20-in-pakistan.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-bbc-at-the-site-of-chinas-worst-mining-disaster-in",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-24-bbc-at-the-site-of-chinas-worst-mining-disaster-in-more-than.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-australia-s-prettiest-street-is-grappling-with-tik",
+      "title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-australia-s-prettiest-street-is-grappling-with-tiktok-and-in.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-at-least-14-killed-in-bombing-attack-that-derailed",
+      "title": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-at-least-14-killed-in-bombing-attack-that-derailed-a-train-i.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-24-as-rents-soar-londoners-turn-to-vacant-pubs-office",
+      "title": "As Rents Soar, Londoners Turn to Vacant Pubs, Offices and Police Stations",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/london-guardianships-rent-cost-of-living.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-as-rents-soar-londoners-turn-to-vacant-pubs-offices-and-poli.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-a-lull-in-fighting-gave-time-to-bury-their-dead",
+      "title": "A Lull in Fighting Gave Time to Bury Their Dead",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html",
+      "date": "2026-05-24",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-24-a-lull-in-fighting-gave-time-to-bury-their-dead.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-24-6-kitchen-gadgets-that-make-adulting-feel-easier",
+      "title": "6 kitchen gadgets that make adulting feel easier",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "date": "2026-05-24",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-24-6-kitchen-gadgets-that-make-adulting-feel-easier.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-23-xi-calls-for-all-out-rescue-after-coal-mine-explos",
+      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-23-xi-calls-for-all-out-rescue-after-coal-mine-explosion-kills-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-23-u-s-ebola-travel-ban-faces-criticism-from-congo-he",
+      "title": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-23-u-s-ebola-travel-ban-faces-criticism-from-congo-health-offic.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-23-these-special-phone-and-app-features-can-help-prot",
+      "title": "These special phone and app features can help protect you from spyware",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "date": "2026-05-23",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-23-these-special-phone-and-app-features-can-help-protect-you-fr.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-23-solarsquare-in-talks-to-raise-up-to-60m-as-india-s",
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "date": "2026-05-23",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-23-solarsquare-in-talks-to-raise-up-to-60m-as-india-s-rooftop-s.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-23-rosenberg-luhansk-strike-sparks-russian-accusation",
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-23-rosenberg-luhansk-strike-sparks-russian-accusations-and-vow-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-23-israeli-strikes-pummel-lebanon-killing-medics-amid",
+      "title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-23-israeli-strikes-pummel-lebanon-killing-medics-amid-fragile-t.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-23-iran-and-u-s-officials-signal-progress-as-cease-fi",
+      "title": "Iran and U.S. Officials Signal Progress as Cease-Fire Hangs in Balance",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-23-iran-and-u-s-officials-signal-progress-as-cease-fire-hangs-i.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-23-how-to-stay-safe-around-jellyfish-this-beach-seaso",
+      "title": "How to Stay Safe Around Jellyfish This Beach Season",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/us/jellyfish-facts-beach-sting-safety.html",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-23-how-to-stay-safe-around-jellyfish-this-beach-season.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-23-france-bans-israeli-minister-over-treatment-of-det",
+      "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html",
+      "date": "2026-05-23",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-23-france-bans-israeli-minister-over-treatment-of-detained-flot.md",
+      "type": "link-only"
+    }
+  ]
+}
