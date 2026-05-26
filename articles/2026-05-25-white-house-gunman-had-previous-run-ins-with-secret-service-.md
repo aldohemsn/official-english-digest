@@ -1,0 +1,14 @@
+---
+id: 2026-05-25-white-house-gunman-had-previous-run-ins-with-secre
+title: >-
+  White House gunman had previous run-ins with Secret Service, court documents
+  show
+source: bbc.com
+url: 'https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss'
+date: '2026-05-25'
+topics:
+  - world
+  - news
+type: full-text
+---
+ReutersThe suspect who fired shots outside the White House, striking a bystander before the Secret Service shot and killed him, had previous run-ins with authorities there, court documents show.Nasire Best, as he has been identified to the BBC by Washington DC's Metropolitan Police Department, previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.He was sent for a mental evaluation after that incident.Best is accused of firing shots outside the president's home just after 18:00 EST (23:00 GMT) on Saturday - reporters filming outside ducked and ran for cover inside. US President Donald Trump was at the White House but was unharmed.Moment ABC reporter hears gunshots and ducks for cover near White HouseCourt documents show that during a June 2025 incident with the Secret Service, Best, of Dundalk, Maryland, told agents he wanted to be arrested. Despite having a mental evaluation, a month later in July, he again tried to access the White House. Best was arrested by Secret Service agents after that second incident and charged with unlawfully entering a federally controlled property, according to court records. He was released after being arraigned on the unlawful entry charge, but in August of 2025, he failed to appear for a status hearing, the documents show. That led to a no-bond bench warrant, allowing law enforcement to arrest him. Then on Saturday, less than a year later, he reappeared outside the White House and began firing at a Secret Service checkpoint at the intersection of 17th Street and Pennsylvania Avenue NW, near the Eisenhower Executive Office Building. Secret Service officers posted on the corner returned fire, striking the gunman. Best was taken to hospital, where he was pronounced dead. A bystander was also shot and seriously wounded, but was in stable condition as of Sunday. It's not clear how the bystander was shot. No officers were injured in the attack. Trump was at the White House at the time, but officials said no "protectees" or operations were impacted."Thank you to our great Secret Service and Law Enforcement for the swift and professional action taken this evening against a gunman near the White House," Trump wrote on social media. The shooting occurred a month after a gunman opened fire at the White House Correspondents' Dinner, forcing a swift end to the event and forcing Trump to be escorted out by Secret Service as hundreds of attendees were evacuated. Getty ImagesBullet holes and broken glass are seen at the White House History Shop after yesterday's shooting near the White House,

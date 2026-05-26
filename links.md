@@ -1,6 +1,13 @@
 # Curated Links
 
 
+## 2026-05-26
+
+- [U.S. Carries Out Renewed Strikes in Southern Iran](https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html) — nytimes.com · world, US
+- [Inside India’s Manipur State, Where Violence and Division Are Routine](https://www.nytimes.com/2026/05/26/world/asia/india-manipur-violence-ethnic-conflict.html) — nytimes.com · world, US
+- [Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.](https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html) — nytimes.com · world, US
+- [Are We Pandemic Ready?](https://www.nytimes.com/2026/05/25/world/pandemic-ebola-outbreak-iran-qatar.html) — nytimes.com · world, US
+
 ## 2026-05-25
 
 - [What to Know About the Potential U.S.-Iran Peace Deal](https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html) — nytimes.com · world, US
@@ -12,6 +19,11 @@
 - [Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html) — nytimes.com · world, US
 - [Pope Leo Has Released an Encyclical About A.I. Why Is That Important?](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html) — nytimes.com · world, US
 - [One of Madagascar’s Oldest Sacred Trees Is Slowly Dying](https://www.nytimes.com/2026/05/25/world/africa/baobab-tree-dying-madagascar-africa.html) — nytimes.com · world, US
+- [
+        Offshore finance is thriving despite crackdowns
+      ](https://www.economist.com/finance-and-economics/2026/05/25/offshore-finance-is-thriving-despite-crackdowns) — economist.com · economy, finance
+- [Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon](https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html) — nytimes.com · world, US
+- [Main Takeaways From Pope Leo’s Encyclical on A.I.](https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html) — nytimes.com · world, US
 - [Kyiv, Ukraine, Hit in Russian Missile Attack](https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html) — nytimes.com · world, US
 - [Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal](https://www.nytimes.com/live/2026/05/25/world/iran-war-trump) — nytimes.com · world, US
 - [In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’](https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html) — nytimes.com · world, US
@@ -20,7 +32,9 @@
 - [Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis](https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html) — nytimes.com · world, US
 - [Chinadaily home page](https://www.chinadaily.com.cn//www.chinadaily.com.cn) — ChinaDaily · China, world
 - [Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?](https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html) — nytimes.com · world, US
+- [Cambodia’s Leader Pardons Top Opposition Politician Kem Sokha](https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html) — nytimes.com · world, US
 - [A deal with the U.S. would be preliminary and focused on ending the war, an Iranian official says.](https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/a-deal-with-the-us-would-be-preliminary-and-focused-on-ending-war-iranian-official-says) — nytimes.com · world, US
+- [‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit](https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html) — nytimes.com · world, US
 - [A City in the Kill Zone](https://www.nytimes.com/2026/05/25/world/europe/a-city-in-the-kill-zone.html) — nytimes.com · world, US
 
 ## 2026-05-24

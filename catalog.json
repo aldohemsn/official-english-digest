@@ -1,7 +1,202 @@
 {
   "v": 1,
-  "updated_at": "2026-05-25T15:56:16.285Z",
+  "updated_at": "2026-05-26T07:04:24.857Z",
   "articles": [
+    {
+      "id": "2026-05-26-us-launches-new-strikes-on-iran-targeting-missile-",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-26-us-launches-new-strikes-on-iran-targeting-missile-sites-and-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-u-s-carries-out-renewed-strikes-in-southern-iran",
+      "title": "U.S. Carries Out Renewed Strikes in Southern Iran",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-26-u-s-carries-out-renewed-strikes-in-southern-iran.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-26-social-media-as-bad-for-young-people-as-smoking-to",
+      "title": "Social media as bad for young people as smoking, top doctors say ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-26-social-media-as-bad-for-young-people-as-smoking-top-doctors-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-russia-threatens-more-kyiv-strikes-and-tells-forei",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-26-russia-threatens-more-kyiv-strikes-and-tells-foreign-nationa.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-rescuers-race-to-free-seven-people-trapped-in-floo",
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-26-rescuers-race-to-free-seven-people-trapped-in-flooded-laos-c.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-next-boss-warns-of-dramatic-fall-in-entry-level-jo",
+      "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-26-next-boss-warns-of-dramatic-fall-in-entry-level-jobs.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-netanyahu-says-israel-will-intensify-strikes-again",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-26-netanyahu-says-israel-will-intensify-strikes-against-hezboll.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-jazz-legend-sonny-rollins-dies-aged-95",
+      "title": "Jazz legend Sonny Rollins dies aged 95",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-26-jazz-legend-sonny-rollins-dies-aged-95.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-inside-india-s-manipur-state-where-violence-and-di",
+      "title": "Inside India’s Manipur State, Where Violence and Division Are Routine",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/26/world/asia/india-manipur-violence-ethnic-conflict.html",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-26-inside-india-s-manipur-state-where-violence-and-division-are.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-26-iceland-rattled-by-trump-s-greenland-threats-weigh",
+      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-26-iceland-rattled-by-trump-s-greenland-threats-weighs-joining-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-26-ferrari-unveils-first-fully-electric-car",
+      "title": "Ferrari unveils first fully electric car",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-26-ferrari-unveils-first-fully-electric-car.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-bank-holiday-sun-boosts-south-west-tourism",
+      "title": "Bank holiday sun boosts South West tourism",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cn4ppg9dxn2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-26-bank-holiday-sun-boosts-south-west-tourism.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-26-are-we-pandemic-ready",
+      "title": "Are We Pandemic Ready?",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/pandemic-ebola-outbreak-iran-qatar.html",
+      "date": "2026-05-26",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-26-are-we-pandemic-ready.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-26-an-8-000-debt-pushed-me-to-breaking-point",
+      "title": "'An £8,000 debt pushed me to breaking point'",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cx21pryz3xlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-26-an-8-000-debt-pushed-me-to-breaking-point.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-white-house-gunman-had-previous-run-ins-with-secre",
+      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-white-house-gunman-had-previous-run-ins-with-secret-service-.md",
+      "type": "full-text"
+    },
     {
       "id": "2026-05-25-what-to-know-about-the-potential-u-s-iran-peace-de",
       "title": "What to Know About the Potential U.S.-Iran Peace Deal",
@@ -14,6 +209,58 @@
       ],
       "file": "articles/2026-05-25-what-to-know-about-the-potential-u-s-iran-peace-deal.md",
       "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-what-clickup-s-mass-layoff-tells-us-about-the-futu",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "date": "2026-05-25",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-25-what-clickup-s-mass-layoff-tells-us-about-the-future-of-work.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-wave-of-child-abuse-cases-shakes-schools-in-paris",
+      "title": "Wave of child abuse cases shakes schools in Paris",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-wave-of-child-abuse-cases-shakes-schools-in-paris.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-watch-why-us-presidents-get-medical-check-ups",
+      "title": "Watch: Why US presidents get medical check ups",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-watch-why-us-presidents-get-medical-check-ups.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-watch-only-world-record-broken-at-enhanced-games-w",
+      "title": "Watch: Only world record broken at Enhanced Games won't be recognised",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/cm2ppx7d0k7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-watch-only-world-record-broken-at-enhanced-games-wont-be-rec.md",
+      "type": "full-text"
     },
     {
       "id": "2026-05-25-uk-heat-wave-could-break-may-temperature-record",
@@ -40,6 +287,45 @@
       ],
       "file": "articles/2026-05-25-trump-s-pressure-had-little-effect-on-iran-s-terms-for-a-pea.md",
       "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-three-killed-in-uganda-after-crashing-into-elephan",
+      "title": "Three killed in Uganda after crashing into elephant",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-three-killed-in-uganda-after-crashing-into-elephant.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-this-beach-hut-costs-the-same-as-a-three-bedroom-h",
+      "title": "This beach hut costs the same as a three-bedroom house",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/cg4pp1xdyk2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-25-this-beach-hut-costs-the-same-as-a-three-bedroom-house.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-the-rise-of-the-fruit-that-tastes-like-custard",
+      "title": "The rise of the fruit that tastes like custard",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-25-the-rise-of-the-fruit-that-tastes-like-custard.md",
+      "type": "full-text"
     },
     {
       "id": "2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai",
@@ -198,6 +484,45 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-25-offshore-finance-is-thriving-despite-crackdowns",
+      "title": "\n        Offshore finance is thriving despite crackdowns\n      ",
+      "source": "economist.com",
+      "url": "https://www.economist.com/finance-and-economics/2026/05/25/offshore-finance-is-thriving-despite-crackdowns",
+      "date": "2026-05-25",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "file": "articles/2026-05-25-offshore-finance-is-thriving-despite-crackdowns.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-netanyahu-says-israel-plans-to-intensify-attacks-o",
+      "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-netanyahu-says-israel-plans-to-intensify-attacks-on-hezbolla.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-more-than-1-5m-foreign-pilgrims-begin-hajj-despite",
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-more-than-1-5m-foreign-pilgrims-begin-hajj-despite-iran-war-.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-25-moment-of-gas-explosion-at-china-coal-mine",
       "title": "Moment of gas explosion at China coal mine",
       "source": "bbc.com",
@@ -209,6 +534,19 @@
       ],
       "file": "articles/2026-05-25-moment-of-gas-explosion-at-china-coal-mine.md",
       "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-main-takeaways-from-pope-leo-s-encyclical-on-a-i",
+      "title": "Main Takeaways From Pope Leo’s Encyclical on A.I.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-main-takeaways-from-pope-leo-s-encyclical-on-a-i.md",
+      "type": "link-only"
     },
     {
       "id": "2026-05-25-large-scale-russian-attack-on-ukraine-leaves-four-",
@@ -341,6 +679,19 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-25-delhis-most-exclusive-club-is-under-threat-of-shut",
+      "title": "Delhi's most exclusive club is under threat of shutdown - can it survive?",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ce8pp0n5znko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-delhis-most-exclusive-club-is-under-threat-of-shutdown-can-i.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-25-deal-with-us-not-imminent-iran-says",
       "title": "Deal with US not imminent, Iran says",
       "source": "bbc.com",
@@ -419,6 +770,45 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-25-cambodias-former-opposition-leader-receives-royal-",
+      "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-cambodias-former-opposition-leader-receives-royal-pardon-for.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-25-cambodia-s-leader-pardons-top-opposition-politicia",
+      "title": "Cambodia’s Leader Pardons Top Opposition Politician Kem Sokha",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-cambodia-s-leader-pardons-top-opposition-politician-kem-sokh.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-blistering-heat-indians-warned-to-stay-indoors-as-",
+      "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-25-blistering-heat-indians-warned-to-stay-indoors-as-temperatur.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-25-beer-boom-goes-flat-as-breweries-call-last-orders",
       "title": "Beer boom goes flat as breweries call last orders",
       "source": "bbc.com",
@@ -468,6 +858,19 @@
         "US"
       ],
       "file": "articles/2026-05-25-a-deal-with-the-u-s-would-be-preliminary-and-focused-on-endi.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-25-a-dangerous-bluff-carney-likens-alberta-referendum",
+      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
+      "date": "2026-05-25",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-25-a-dangerous-bluff-carney-likens-alberta-referendum-to-brexit.md",
       "type": "link-only"
     },
     {
