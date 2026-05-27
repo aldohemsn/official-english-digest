@@ -1,12 +1,42 @@
 # Curated Links
 
 
+## 2026-05-27
+
+- [Where Time Is Always 15 Minutes Apart From Everywhere Else](https://www.nytimes.com/2026/05/27/world/asia/nepal-time-15-minutes.html) — nytimes.com · world, US
+- [To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) — nytimes.com · world, US
+- [Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry](https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html) — nytimes.com · world, US
+- [Nigel Farage’s Far-Right Party Is Now Central to British Politics](https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html) — nytimes.com · world, US
+- [Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said](https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal) — nytimes.com · world, US
+- [Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate](https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html) — nytimes.com · world, US
+- [Iceland Warms to Europe](https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html) — nytimes.com · world, US
+- [High-Level British Spy Warns of Expanding Russia Threat](https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html) — nytimes.com · world, US
+
 ## 2026-05-26
 
+- [U.S. Said to Have Observed Series of Iranian Threats Before Latest Strikes](https://www.nytimes.com/2026/05/26/world/middleeast/us-iran-strikes.html) — nytimes.com · world, US
 - [U.S. Carries Out Renewed Strikes in Southern Iran](https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html) — nytimes.com · world, US
+- [Trump’s Iran Proposal Has Echoes of Half-Finished Gaza Deal](https://www.nytimes.com/2026/05/26/world/middleeast/trump-middle-east-peace-deals.html) — nytimes.com · world, US
+- [Threat of Deportations Leads to Risky Childbirth for Haitian Mothers](https://www.nytimes.com/2026/05/26/world/americas/dominican-republic-haiti-hospital-deportations.html) — nytimes.com · world, US
+- [The Wars in Ukraine and Iran Are More Alike Than You May Think](https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html) — nytimes.com · world, US
+- [Russians Are Thriving on This Thai Island, but the Scene Feels Fleeting](https://www.nytimes.com/2026/05/26/world/asia/russians-phuket-thailand.html) — nytimes.com · world, US
+- [Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave](https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html) — nytimes.com · world, US
+- [Israel Steps Up Lebanon Offensive as U.S. Pushes for Iran Peace Deal](https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html) — nytimes.com · world, US
+- [Iran Threatens to Renew Strikes Against U.S. Amid Push for Diplomatic Deal](https://www.nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html) — nytimes.com · world, US
+- [Iran Begins Lifting Monthslong Internet Blackout, Officials Say](https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html) — nytimes.com · world, US
 - [Inside India’s Manipur State, Where Violence and Division Are Routine](https://www.nytimes.com/2026/05/26/world/asia/india-manipur-violence-ethnic-conflict.html) — nytimes.com · world, US
 - [Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.](https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html) — nytimes.com · world, US
+- [Here’s the latest.](https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal/heres-the-latest) — nytimes.com · world, US
+- [
+        Giga-IPOs are a symptom of public markets’ giga-problem
+      ](https://www.economist.com/finance-and-economics/2026/05/26/giga-ipos-are-a-symptom-of-public-markets-giga-problem) — economist.com · economy, finance
+- [Canada Strikes Landmark Deal to Export Liquefied Natural Gas to Germany](https://www.nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html) — nytimes.com · world, US
+- [Belgium Crash Kills 4 as Train Hits School Van](https://www.nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html) — nytimes.com · world, US
+- [At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’](https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html) — nytimes.com · world, US
 - [Are We Pandemic Ready?](https://www.nytimes.com/2026/05/25/world/pandemic-ebola-outbreak-iran-qatar.html) — nytimes.com · world, US
+- [A Spring Heat Wave Is Breaking Records in the U.K., Spain and France](https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html) — nytimes.com · world, US
+- [A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It?](https://www.nytimes.com/2026/05/26/health/lenacapavir-hiv-zambia.html) — nytimes.com · world, US
+- [A Dissident Escapes China by Rubber Boat and Lands in South Korea](https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html) — nytimes.com · world, US
 
 ## 2026-05-25
 
