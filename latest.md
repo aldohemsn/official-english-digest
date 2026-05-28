@@ -1,38 +1,38 @@
 # Latest Articles
 
 
+## 2026-05-28
+
+- [Why Pakistan and Afghanistan Are Still Fighting](https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html) — nytimes.com · world, US
+- [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/) — techcrunch.com · technology, AI
+- [Why Fifa is being investigated over World Cup ticket prices](https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/) — techcrunch.com · technology, AI
+- [US strikes Iran targets for second time in three days](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [UK at risk of 'lost generation' of young people without work, report warns](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [Uganda Closes Border With Congo as Ebola Fears Rise](https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html) — nytimes.com · world, US
+- [U.S. Strikes Military Sites in Iran for Second Time in 3 Days](https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html) — nytimes.com · world, US
+- [U.S. Conducts New Strikes on Southern Iran](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal) — nytimes.com · world, US
+- [Trump Says He Feels No Political Pressure to Make an Iran Deal](https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html) — nytimes.com · world, US
+- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [Sixteen pupils killed in Kenya school fire, local police say](https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Residents Watch as Israeli War Planes Circle Over Southern Lebanon](https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html) — nytimes.com · world, US
+- [Oil prices jump after US launches new attacks on Iran](https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Jill Biden says she thought husband was having a stroke during 2024 debate](https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Israel strikes southern Lebanon after evacuation orders](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Israel Continues Its Escalation in Lebanon With New Evacuation Warnings](https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html) — nytimes.com · world, US
+- [Here’s the latest.](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest) — nytimes.com · world, US
+- [Google worker charged with using internal data to make $1.2m on bets](https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/) — techcrunch.com · technology, AI
+- [Five People Stuck in Flooded Laos Cave Are Found Alive](https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html) — nytimes.com · world, US
+- [Duterte ICC trial to start on 30 November: What you need to know](https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Cease-Fires, but No Peace](https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html) — nytimes.com · world, US
+- [Australia sues US giant 3M over 'forever chemicals' in firefighting foam](https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Australia charges woman who returned from Syria with joining Islamic State](https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+
 ## 2026-05-27
 
-- [White House erects UFC cage ahead of US 250th anniversary celebrations](https://www.bbc.com/news/articles/cz622647eg3o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Where Time Is Always 15 Minutes Apart From Everywhere Else](https://www.nytimes.com/2026/05/27/world/asia/nepal-time-15-minutes.html) — nytimes.com · world, US
-- [We want everyone to use our 'very green grocery'](https://www.bbc.com/news/articles/c7945l13n1xo?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) — nytimes.com · world, US
-- [Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry](https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html) — nytimes.com · world, US
-- [One killed and nine missing after chemical explosion at US paper mill](https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Nigel Farage’s Far-Right Party Is Now Central to British Politics](https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html) — nytimes.com · world, US
-- ['I've given up eating hot meals to pay for equipment to keep my son alive'](https://www.bbc.com/news/articles/c0j2ep13le2o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Israel says new head of Hamas' military wing killed in Gaza City strikes](https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said](https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal) — nytimes.com · world, US
-- [Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate](https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html) — nytimes.com · world, US
-- [Iceland Warms to Europe](https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html) — nytimes.com · world, US
-- [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [High-Level British Spy Warns of Expanding Russia Threat](https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html) — nytimes.com · world, US
-- [First Ghanaians set to be repatriated from South Africa over anti-immigrant protests](https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Farmers' warning as milk prices fall below cost](https://www.bbc.com/news/articles/c5ye37jrk3go?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Energy bills to rise for millions as impact of Iran war hits](https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Dozens killed in Lebanon as Israel intensifies strikes](https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Children's meals to be cheaper under VAT cut](https://www.bbc.com/news/articles/cze22kxlr80o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Champion ethical hacker warns AI tools like Mythos will make competing harder](https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- ['Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal](https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Booming AI chip demand helps create two new $1tn club members](https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Attorney General Ken Paxton routs  veteran incumbent Cornyn in Texas Senate primary](https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-
-## 2026-05-26
-
-- [Why temperature records are being not only broken but smashed](https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/) — techcrunch.com · technology, AI
-- [Watch: UFC arena construction begins at White House ahead of fight](https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Watch: Drones crash into water after Sydney light show malfunction](https://www.bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Watch: Bridge collapses and car swept away in China river](https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [US launches new strikes on Iran, targeting missile sites and boats](https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Universal Music Group and TikTok renew agreement to combat unauthorized AI music](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/) — techcrunch.com · technology, AI
+- [Woman caught after 30 years on the run is jailed for armed robberies](https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup](https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/) — techcrunch.com · technology, AI
+- [Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists](https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html) — nytimes.com · world, US
+- [Why paying £5 for a latte is here to stay](https://www.bbc.com/news/videos/c0e2y90wr3do?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [Why it's now harder to get a Saturday job](https://www.bbc.com/news/videos/cpqp37577x7o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy

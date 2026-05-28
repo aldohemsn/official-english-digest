@@ -1,16 +1,49 @@
 # Curated Links
 
 
+## 2026-05-28
+
+- [Why Pakistan and Afghanistan Are Still Fighting](https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html) — nytimes.com · world, US
+- [Uganda Closes Border With Congo as Ebola Fears Rise](https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html) — nytimes.com · world, US
+- [U.S. Strikes Military Sites in Iran for Second Time in 3 Days](https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html) — nytimes.com · world, US
+- [U.S. Conducts New Strikes on Southern Iran](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal) — nytimes.com · world, US
+- [Trump Says He Feels No Political Pressure to Make an Iran Deal](https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html) — nytimes.com · world, US
+- [Residents Watch as Israeli War Planes Circle Over Southern Lebanon](https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html) — nytimes.com · world, US
+- [Israel Continues Its Escalation in Lebanon With New Evacuation Warnings](https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html) — nytimes.com · world, US
+- [Here’s the latest.](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest) — nytimes.com · world, US
+- [Five People Stuck in Flooded Laos Cave Are Found Alive](https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html) — nytimes.com · world, US
+- [Cease-Fires, but No Peace](https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html) — nytimes.com · world, US
+
 ## 2026-05-27
 
+- [Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists](https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html) — nytimes.com · world, US
+- [Why Ghana Is Evacuating Hundreds of Its Citizens From South Africa](https://www.nytimes.com/2026/05/27/world/africa/south-africa-ghana-immigration-protests.html) — nytimes.com · world, US
 - [Where Time Is Always 15 Minutes Apart From Everywhere Else](https://www.nytimes.com/2026/05/27/world/asia/nepal-time-15-minutes.html) — nytimes.com · world, US
+- [What Iranian State Media Says Is in Outline of ‘Unofficial’ Deal With U.S.](https://www.nytimes.com/2026/05/27/world/middleeast/iran-unofficial-deal-strait.html) — nytimes.com · world, US
+- [Trump Threatens Oman Over the Strait, Then Says, ‘They’ll Be Fine.’](https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html) — nytimes.com · world, US
 - [To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) — nytimes.com · world, US
+- [To Make a Deal With Trump, Iran Wants Billions of Its Money Unfrozen](https://www.nytimes.com/2026/05/27/world/middleeast/iran-frozen-funds-trump-deal.html) — nytimes.com · world, US
+- [Samsung Unions Approve Pay Deal That Highlights Inequality of A.I. Age](https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html) — nytimes.com · world, US
+- [Rubio’s India Visit Yields No Major Deals to Repair U.S.-India Relations](https://www.nytimes.com/2026/05/27/world/asia/marco-rubio-visit-india-modi-trump.html) — nytimes.com · world, US
 - [Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry](https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html) — nytimes.com · world, US
 - [Nigel Farage’s Far-Right Party Is Now Central to British Politics](https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html) — nytimes.com · world, US
+- [Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal](https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html) — nytimes.com · world, US
+- [
+        Kevin Warsh’s troublesome inflation in-tray
+      ](https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray) — economist.com · economy, finance
+- [
+        Japan, South Korea and Taiwan are suffering industrial rot
+      ](https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot) — economist.com · economy, finance
 - [Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said](https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal) — nytimes.com · world, US
 - [Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate](https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html) — nytimes.com · world, US
 - [Iceland Warms to Europe](https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html) — nytimes.com · world, US
 - [High-Level British Spy Warns of Expanding Russia Threat](https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html) — nytimes.com · world, US
+- [Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth](https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html) — nytimes.com · world, US
+- [Could Russia Hit Harder? It at Least Wants Ukraine to Think So.](https://www.nytimes.com/2026/05/27/world/europe/russia-ukraine-kyiv-attacks.html) — nytimes.com · world, US
+- [Canada Rejects U.S. Military Suppliers in Favor of Swedish Aircraft](https://www.nytimes.com/2026/05/27/world/canada/carney-canada-military-spending-saab-air-force.html) — nytimes.com · world, US
+- [After Decades on the Run, a Leftist Militant Is Sentenced in Germany](https://www.nytimes.com/2026/05/27/world/europe/daniela-klette-jailed-red-army-faction.html) — nytimes.com · world, US
+- [After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online](https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html) — nytimes.com · world, US
+- [A Quiet Pacific Village Becomes China’s Security Testing Ground](https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html) — nytimes.com · world, US
 
 ## 2026-05-26
 
