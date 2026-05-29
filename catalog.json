@@ -1,7 +1,306 @@
 {
   "v": 1,
-  "updated_at": "2026-05-28T07:11:29.674Z",
+  "updated_at": "2026-05-29T07:11:55.574Z",
   "articles": [
+    {
+      "id": "2026-05-29-waymo-dominates-autonomous-vehicle-registrations-a",
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-waymo-dominates-autonomous-vehicle-registrations-as-tesla-tr.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-watch-moment-14-year-old-wins-us-national-spelling",
+      "title": "Watch: Moment 14-year-old wins US national spelling bee",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-watch-moment-14-year-old-wins-us-national-spelling-bee.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-u-s-and-iran-move-toward-agreement-to-reopen-the-s",
+      "title": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-u-s-and-iran-move-toward-agreement-to-reopen-the-strait-of-h.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-the-man-turning-the-cockroach-into-a-gen-z-movemen",
+      "title": "The Man Turning the Cockroach Into a Gen-Z Movement in India",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/asia/cockroach-janta-party-india-movement.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-the-man-turning-the-cockroach-into-a-gen-z-movement-in-india.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-russian-drone-hits-romanian-apartment-building",
+      "title": "Russian Drone Hits Romanian Apartment Building",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-russian-drone-hits-romanian-apartment-building.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-netanyahu-says-he-has-directed-idf-to-increase-con",
+      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70% ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-netanyahu-says-he-has-directed-idf-to-increase-control-of-ga.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-nato-condemns-russian-recklessness-after-drone-hit",
+      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian apartment block",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-nato-condemns-russian-recklessness-after-drone-hits-romanian.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-moment-blue-origin-rocket-explodes-during-test-in-",
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-moment-blue-origin-rocket-explodes-during-test-in-florida.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-italy-restores-lucky-testicles-on-bull-mosaic-worn",
+      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-italy-restores-lucky-testicles-on-bull-mosaic-worn-down-by-t.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-italian-police-uncover-dead-mob-boss-s-230-million",
+      "title": "Italian Police Uncover Dead Mob Boss’s $230 Million Business Empire",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-italian-police-uncover-dead-mob-boss-s-230-million-business-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-israel-to-cut-ties-with-u-n-chief-over-its-inclusi",
+      "title": "Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-israel-to-cut-ties-with-u-n-chief-over-its-inclusion-on-sexu.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-iran-war-updates-u-s-officials-say-they-are-closin",
+      "title": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-iran-war-updates-u-s-officials-say-they-are-closing-in-on-ar.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-glean-s-top-line-crosses-300m-as-ai-budget-cutting",
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-glean-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-i.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-europe-is-edging-closer-to-a-trade-war-with-china-",
+      "title": "Europe Is Edging Closer to a Trade War With China. Here’s Why.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-europe-is-edging-closer-to-a-trade-war-with-china-here-s-why.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-carney-says-that-canada-s-distancing-is-good-for-u",
+      "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-carney-says-that-canada-s-distancing-is-good-for-u-s-in-new-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-blue-origin-s-new-glenn-rocket-explodes-during-tes",
+      "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-blue-origin-s-new-glenn-rocket-explodes-during-testing-in-fl.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-blue-origin-rocket-explodes-into-huge-ball-of-flam",
+      "title": "Blue Origin rocket explodes into huge ball of flame on Florida launch pad",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-29-blue-origin-rocket-explodes-into-huge-ball-of-flame-on-flori.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-after-new-push-by-the-bolsonaros-u-s-labels-brazil",
+      "title": "After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-after-new-push-by-the-bolsonaros-u-s-labels-brazilian-gangs-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-a-i-s-big-next-step",
+      "title": "A.I.’s Big Next Step",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-a-i-s-big-next-step.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-a-draft-u-s-iran-plan-is-said-to-be-on-the-table-h",
+      "title": "A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-a-draft-u-s-iran-plan-is-said-to-be-on-the-table-here-s-what.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-youtuber-defamed-movie-star-using-a-i-south-korean",
+      "title": "YouTuber Defamed Movie Star Using A.I., South Korean Police Say",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/asia/kim-soo-hyun-youtube-arrest.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-youtuber-defamed-movie-star-using-a-i-south-korean-police-sa.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-without-fanfare-china-is-making-rural-migrants-liv",
+      "title": "\n        Without fanfare, China is making rural migrants’ lives easier\n      ",
+      "source": "economist.com",
+      "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
+      "date": "2026-05-28",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "file": "articles/2026-05-28-without-fanfare-china-is-making-rural-migrants-lives-easier.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-why-paris-may-be-the-most-important-ai-city-outsid",
+      "title": "Why Paris may be the most important AI city outside Silicon Valley",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-why-paris-may-be-the-most-important-ai-city-outside-silicon-.md",
+      "type": "full-text"
+    },
     {
       "id": "2026-05-28-why-pakistan-and-afghanistan-are-still-fighting",
       "title": "Why Pakistan and Afghanistan Are Still Fighting",
@@ -42,6 +341,45 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-28-when-trade-soured-this-american-liquor-maker-moved",
+      "title": "When trade soured, this American liquor maker moved to Canada",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-when-trade-soured-this-american-liquor-maker-moved-to-canada.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-waymo-s-newest-robotaxi-is-chinese-made-built-to-m",
+      "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-waymo-s-newest-robotaxi-is-chinese-made-built-to-make-money-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-villas-cars-and-cash-italy-seizes-dead-mafia-mobst",
+      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-villas-cars-and-cash-italy-seizes-dead-mafia-mobsters-millio.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-vertu-wants-ceos-to-run-companies-from-an-ai-folda",
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
       "source": "techcrunch.com",
@@ -65,6 +403,45 @@
         "news"
       ],
       "file": "articles/2026-05-28-us-strikes-iran-targets-for-second-time-in-three-days.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-us-says-troops-were-targeted-with-location-data-as",
+      "title": "US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-us-says-troops-were-targeted-with-location-data-as-senator-w.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-us-government-prepares-to-print-250-note-featuring",
+      "title": "US government prepares to print $250 note featuring Trump's face",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-us-government-prepares-to-print-250-note-featuring-trumps-fa.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-us-and-iran-very-close-to-deal-but-not-there-yet-v",
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-us-and-iran-very-close-to-deal-but-not-there-yet-vance-says.md",
       "type": "full-text"
     },
     {
@@ -133,6 +510,45 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-28-the-u-s-re-sanctioned-a-u-n-legal-expert-critical-",
+      "title": "The U.S. re-sanctioned a U.N. legal expert critical of Israel.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/the-us-re-sanctioned-a-un-legal-expert-critical-of-israel",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-the-u-s-re-sanctioned-a-u-n-legal-expert-critical-of-israel.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-the-mideast-is-baffled-by-trump-s-call-to-expand-a",
+      "title": "The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-the-mideast-is-baffled-by-trump-s-call-to-expand-abraham-acc.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-the-internet-is-being-rebuilt-for-machines",
+      "title": "The internet is being rebuilt for machines",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-the-internet-is-being-rebuilt-for-machines.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-the-5-coffee-that-tells-a-story-of-global-economic",
       "title": "The £5 coffee that tells a story of global economic turmoil",
       "source": "bbc.com",
@@ -143,6 +559,45 @@
         "economy"
       ],
       "file": "articles/2026-05-28-the-5-coffee-that-tells-a-story-of-global-economic-turmoil.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-survival-before-safety-for-delhis-poor-as-temperat",
+      "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-survival-before-safety-for-delhis-poor-as-temperatures-hit-4.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-startup-battlefield-200-application-deadline-exten",
+      "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-startup-battlefield-200-application-deadline-extended-to-jun.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-slate-auto-will-announce-pricing-and-take-preorder",
+      "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-slate-auto-will-announce-pricing-and-take-preorders-for-its-.md",
       "type": "full-text"
     },
     {
@@ -172,6 +627,45 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-28-pressure-grows-on-spain-s-leader-after-police-sear",
+      "title": "Pressure Grows on Spain’s Leader After Police Search His Party Office",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/europe/spain-sanchez-socialist-party-raid.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-pressure-grows-on-spain-s-leader-after-police-search-his-par.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-portugal-breaks-hottest-may-day-record-as-europe-s",
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-portugal-breaks-hottest-may-day-record-as-europe-swelters-in.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-ousted-bp-chairman-hits-back-at-lies-about-his-beh",
+      "title": "Ousted BP chairman hits back at 'lies' about his behaviour",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cy92rzn5v7vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-ousted-bp-chairman-hits-back-at-lies-about-his-behaviour.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-oil-prices-jump-after-us-launches-new-attacks-on-i",
       "title": "Oil prices jump after US launches new attacks on Iran",
       "source": "bbc.com",
@@ -182,6 +676,71 @@
         "news"
       ],
       "file": "articles/2026-05-28-oil-prices-jump-after-us-launches-new-attacks-on-iran.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-netanyahu-says-israel-will-control-70-percent-of-g",
+      "title": "Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-netanyahu-says-israel-will-control-70-percent-of-gaza-squeez.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-man-jailed-for-15-years-over-plot-to-attack-taylor",
+      "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-man-jailed-for-15-years-over-plot-to-attack-taylor-swift-con.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-man-arrested-after-three-injured-in-stabbing-at-sw",
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-man-arrested-after-three-injured-in-stabbing-at-swiss-train-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-learning-from-ukraine-war-hezbollah-is-now-using-f",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-learning-from-ukraine-war-hezbollah-is-now-using-fibre-optic.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-just-like-gold-and-oil-we-ll-soon-be-able-to-trade",
+      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-just-like-gold-and-oil-we-ll-soon-be-able-to-trade-ai-token-.md",
       "type": "full-text"
     },
     {
@@ -198,6 +757,19 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-28-ive-applied-for-more-than-400-roles-how-young-peop",
+      "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-ive-applied-for-more-than-400-roles-how-young-people-are-fac.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-israel-strikes-southern-lebanon-after-evacuation-o",
       "title": "Israel strikes southern Lebanon after evacuation orders",
       "source": "bbc.com",
@@ -208,6 +780,32 @@
         "news"
       ],
       "file": "articles/2026-05-28-israel-strikes-southern-lebanon-after-evacuation-orders.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-israel-strikes-beirut-expanding-offensive-in-leban",
+      "title": "Israel Strikes Beirut, Expanding Offensive in Lebanon",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-israel-strikes-beirut-expanding-offensive-in-lebanon.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-israel-hits-lebanese-capital-in-targeted-strike",
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-israel-hits-lebanese-capital-in-targeted-strike.md",
       "type": "full-text"
     },
     {
@@ -224,6 +822,110 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-28-in-strait-of-hormuz-standoff-u-s-and-iran-deploy-e",
+      "title": "In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-in-strait-of-hormuz-standoff-u-s-and-iran-deploy-economic-wa.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-in-just-3-weeks-strictlyvc-is-coming-to-los-angele",
+      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-in-just-3-weeks-strictlyvc-is-coming-to-los-angeles.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-in-argentina-u-s-tech-billionaire-peter-thiel-find",
+      "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-in-argentina-u-s-tech-billionaire-peter-thiel-finds-an-escap.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-humanoid-robots-the-future-of-car-making-says-bmw",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-humanoid-robots-the-future-of-car-making-says-bmw.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-how-ukraine-s-street-style-is-shaped-by-the-war",
+      "title": "How Ukraine’s Street Style Is Shaped by the War",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-how-ukraine-s-street-style-is-shaped-by-the-war.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-how-to-tax-businesses-in-orbit-and-beyond",
+      "title": "\n        How to tax businesses in orbit and beyond\n      ",
+      "source": "economist.com",
+      "url": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond",
+      "date": "2026-05-28",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "file": "articles/2026-05-28-how-to-tax-businesses-in-orbit-and-beyond.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-how-to-apply-to-startup-battlefield-2026-what-you-",
+      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-how-to-apply-to-startup-battlefield-2026-what-you-need-ahead.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-how-did-this-novel-about-food-win-a-booker-prize-t",
+      "title": "How did this novel about food win a Booker Prize this year?",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-how-did-this-novel-about-food-win-a-booker-prize-this-year.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-here-s-the-latest",
       "title": "Here’s the latest.",
       "source": "nytimes.com",
@@ -234,6 +936,45 @@
         "US"
       ],
       "file": "articles/2026-05-28-here-s-the-latest.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-hackers-are-trying-to-steal-signal-users-backups-i",
+      "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-hackers-are-trying-to-steal-signal-users-backups-in-new-wave.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-h1-secures-40m-from-cvs-proving-saas-startups-can-",
+      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-h1-secures-40m-from-cvs-proving-saas-startups-can-still-attr.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-guatemala-agrees-to-joint-drug-gang-strikes-with-u",
+      "title": "Guatemala Agrees to Joint Drug Gang Strikes With U.S., Expanding Trump’s Campaign",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-guatemala-agrees-to-joint-drug-gang-strikes-with-u-s-expandi.md",
       "type": "link-only"
     },
     {
@@ -263,6 +1004,19 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-28-gaza-city-hospitals-say-several-killed-in-strike-a",
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-gaza-city-hospitals-say-several-killed-in-strike-as-israel-t.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-five-people-stuck-in-flooded-laos-cave-are-found-a",
       "title": "Five People Stuck in Flooded Laos Cave Are Found Alive",
       "source": "nytimes.com",
@@ -274,6 +1028,32 @@
       ],
       "file": "articles/2026-05-28-five-people-stuck-in-flooded-laos-cave-are-found-alive.md",
       "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-fire-at-school-dormitory-in-kenya-kills-at-least-1",
+      "title": "Fire at School Dormitory in Kenya Kills at Least 16",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-fire-at-school-dormitory-in-kenya-kills-at-least-16.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-eu-fines-temu-200m-for-allowing-sale-of-illegal-pr",
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-eu-fines-temu-200m-for-allowing-sale-of-illegal-products.md",
+      "type": "full-text"
     },
     {
       "id": "2026-05-28-duterte-icc-trial-to-start-on-30-november-what-you",
@@ -289,6 +1069,45 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-28-drag-queen-pattie-gonia-fights-trademark-lawsuit-b",
+      "title": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cx21427lvvvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-drag-queen-pattie-gonia-fights-trademark-lawsuit-by-patagoni.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-cuba-loses-its-chance-at-fuel-after-russian-tanker",
+      "title": "Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-cuba-loses-its-chance-at-fuel-after-russian-tanker-changes-r.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-corgi-announces-106m-raise-at-2-6b-valuation-doubl",
+      "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-corgi-announces-106m-raise-at-2-6b-valuation-double-what-it-.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-28-cease-fires-but-no-peace",
       "title": "Cease-Fires, but No Peace",
       "source": "nytimes.com",
@@ -299,6 +1118,45 @@
         "US"
       ],
       "file": "articles/2026-05-28-cease-fires-but-no-peace.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-28-california-attorney-general-sues-23andme-successor",
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-28-california-attorney-general-sues-23andme-successor-for-2023-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-bluesky-embraces-long-form-content-to-counter-x-ar",
+      "title": "Bluesky embraces long-form content to counter X Articles",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-bluesky-embraces-long-form-content-to-counter-x-articles.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-austrian-man-convicted-of-planning-attack-at-taylo",
+      "title": "Austrian Man Convicted of Planning Attack at Taylor Swift Concert in Vienna",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/28/world/europe/taylor-swift-concert-vienna-guilty.html",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-28-austrian-man-convicted-of-planning-attack-at-taylor-swift-co.md",
       "type": "link-only"
     },
     {
@@ -325,6 +1183,71 @@
         "news"
       ],
       "file": "articles/2026-05-28-australia-charges-woman-who-returned-from-syria-with-joining.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-asana-acquires-no-code-agent-builder-stackai",
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-asana-acquires-no-code-agent-builder-stackai.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-are-us-and-iran-close-to-peace-or-sliding-back-to-",
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-28-are-us-and-iran-close-to-peace-or-sliding-back-to-war.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-anthropic-releases-opus-4-8-with-new-dynamic-workf",
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-anthropic-raises-65-billion-nears-1t-valuation-ahe",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-28-a-security-lapse-at-prison-pay-phone-service-pay-t",
+      "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
+      "date": "2026-05-28",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-28-a-security-lapse-at-prison-pay-phone-service-pay-tel-publicl.md",
       "type": "full-text"
     },
     {
@@ -773,7 +1696,7 @@
       "id": "2026-05-27-lebanese-resigned-to-a-long-war-even-if-u-s-and-ir",
       "title": "Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal",
       "source": "nytimes.com",
-      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html",
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html",
       "date": "2026-05-27",
       "topics": [
         "world",

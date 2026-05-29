@@ -1,18 +1,51 @@
 # Curated Links
 
 
+## 2026-05-29
+
+- [U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz](https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html) — nytimes.com · world, US
+- [The Man Turning the Cockroach Into a Gen-Z Movement in India](https://www.nytimes.com/2026/05/28/world/asia/cockroach-janta-party-india-movement.html) — nytimes.com · world, US
+- [Russian Drone Hits Romanian Apartment Building](https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html) — nytimes.com · world, US
+- [Italian Police Uncover Dead Mob Boss’s $230 Million Business Empire](https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html) — nytimes.com · world, US
+- [Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist](https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html) — nytimes.com · world, US
+- [Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal) — nytimes.com · world, US
+- [Europe Is Edging Closer to a Trade War With China. Here’s Why.](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html) — nytimes.com · world, US
+- [Carney Says That Canada’s Distancing is Good for U.S. in New York Speech](https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html) — nytimes.com · world, US
+- [After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups](https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html) — nytimes.com · world, US
+- [A.I.’s Big Next Step](https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html) — nytimes.com · world, US
+- [A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.](https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html) — nytimes.com · world, US
+
 ## 2026-05-28
 
+- [YouTuber Defamed Movie Star Using A.I., South Korean Police Say](https://www.nytimes.com/2026/05/28/world/asia/kim-soo-hyun-youtube-arrest.html) — nytimes.com · world, US
+- [
+        Without fanfare, China is making rural migrants’ lives easier
+      ](https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier) — economist.com · economy, finance
 - [Why Pakistan and Afghanistan Are Still Fighting](https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html) — nytimes.com · world, US
 - [Uganda Closes Border With Congo as Ebola Fears Rise](https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html) — nytimes.com · world, US
 - [U.S. Strikes Military Sites in Iran for Second Time in 3 Days](https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html) — nytimes.com · world, US
 - [U.S. Conducts New Strikes on Southern Iran](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal) — nytimes.com · world, US
 - [Trump Says He Feels No Political Pressure to Make an Iran Deal](https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html) — nytimes.com · world, US
+- [The U.S. re-sanctioned a U.N. legal expert critical of Israel.](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/the-us-re-sanctioned-a-un-legal-expert-critical-of-israel) — nytimes.com · world, US
+- [The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords](https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html) — nytimes.com · world, US
 - [Residents Watch as Israeli War Planes Circle Over Southern Lebanon](https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html) — nytimes.com · world, US
+- [Pressure Grows on Spain’s Leader After Police Search His Party Office](https://www.nytimes.com/2026/05/28/world/europe/spain-sanchez-socialist-party-raid.html) — nytimes.com · world, US
+- [Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas](https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html) — nytimes.com · world, US
+- [Israel Strikes Beirut, Expanding Offensive in Lebanon](https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html) — nytimes.com · world, US
 - [Israel Continues Its Escalation in Lebanon With New Evacuation Warnings](https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html) — nytimes.com · world, US
+- [In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare](https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html) — nytimes.com · world, US
+- [In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html) — nytimes.com · world, US
+- [How Ukraine’s Street Style Is Shaped by the War](https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html) — nytimes.com · world, US
+- [
+        How to tax businesses in orbit and beyond
+      ](https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond) — economist.com · economy, finance
 - [Here’s the latest.](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest) — nytimes.com · world, US
+- [Guatemala Agrees to Joint Drug Gang Strikes With U.S., Expanding Trump’s Campaign](https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html) — nytimes.com · world, US
 - [Five People Stuck in Flooded Laos Cave Are Found Alive](https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html) — nytimes.com · world, US
+- [Fire at School Dormitory in Kenya Kills at Least 16](https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html) — nytimes.com · world, US
+- [Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route](https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html) — nytimes.com · world, US
 - [Cease-Fires, but No Peace](https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html) — nytimes.com · world, US
+- [Austrian Man Convicted of Planning Attack at Taylor Swift Concert in Vienna](https://www.nytimes.com/2026/05/28/world/europe/taylor-swift-concert-vienna-guilty.html) — nytimes.com · world, US
 
 ## 2026-05-27
 
@@ -27,7 +60,7 @@
 - [Rubio’s India Visit Yields No Major Deals to Repair U.S.-India Relations](https://www.nytimes.com/2026/05/27/world/asia/marco-rubio-visit-india-modi-trump.html) — nytimes.com · world, US
 - [Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry](https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html) — nytimes.com · world, US
 - [Nigel Farage’s Far-Right Party Is Now Central to British Politics](https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html) — nytimes.com · world, US
-- [Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal](https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html) — nytimes.com · world, US
+- [Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal](https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html) — nytimes.com · world, US
 - [
         Kevin Warsh’s troublesome inflation in-tray
       ](https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray) — economist.com · economy, finance

@@ -1,38 +1,40 @@
 # Latest Articles
 
 
+## 2026-05-29
+
+- [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/) — techcrunch.com · technology, AI
+- [Watch: Moment 14-year-old wins US national spelling bee](https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz](https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html) — nytimes.com · world, US
+- [The Man Turning the Cockroach Into a Gen-Z Movement in India](https://www.nytimes.com/2026/05/28/world/asia/cockroach-janta-party-india-movement.html) — nytimes.com · world, US
+- [Russian Drone Hits Romanian Apartment Building](https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html) — nytimes.com · world, US
+- [Netanyahu says he has directed IDF to increase control of Gaza to 70% ](https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Nato condemns Russian 'recklessness' after drone hits Romanian apartment block](https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Moment Blue Origin rocket explodes during test in Florida](https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Italy restores lucky testicles on bull mosaic worn down by tourists ](https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Italian Police Uncover Dead Mob Boss’s $230 Million Business Empire](https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html) — nytimes.com · world, US
+- [Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist](https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html) — nytimes.com · world, US
+- [Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal) — nytimes.com · world, US
+- [Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/) — techcrunch.com · technology, AI
+- [Europe Is Edging Closer to a Trade War With China. Here’s Why.](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html) — nytimes.com · world, US
+- [Carney Says That Canada’s Distancing is Good for U.S. in New York Speech](https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html) — nytimes.com · world, US
+- [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/) — techcrunch.com · technology, AI
+- [Blue Origin rocket explodes into huge ball of flame on Florida launch pad](https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups](https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html) — nytimes.com · world, US
+- [A.I.’s Big Next Step](https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html) — nytimes.com · world, US
+- [A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.](https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html) — nytimes.com · world, US
+
 ## 2026-05-28
 
+- [YouTuber Defamed Movie Star Using A.I., South Korean Police Say](https://www.nytimes.com/2026/05/28/world/asia/kim-soo-hyun-youtube-arrest.html) — nytimes.com · world, US
+- [
+        Without fanfare, China is making rural migrants’ lives easier
+      ](https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier) — economist.com · economy, finance
+- [Why Paris may be the most important AI city outside Silicon Valley](https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/) — techcrunch.com · technology, AI
 - [Why Pakistan and Afghanistan Are Still Fighting](https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html) — nytimes.com · world, US
 - [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/) — techcrunch.com · technology, AI
 - [Why Fifa is being investigated over World Cup ticket prices](https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [When trade soured, this American liquor maker moved to Canada](https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
+- [Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders](https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/) — techcrunch.com · technology, AI
+- [Villas, cars and cash: Italy seizes dead Mafia mobster's millions](https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
 - [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/) — techcrunch.com · technology, AI
-- [US strikes Iran targets for second time in three days](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [UK at risk of 'lost generation' of young people without work, report warns](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Uganda Closes Border With Congo as Ebola Fears Rise](https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html) — nytimes.com · world, US
-- [U.S. Strikes Military Sites in Iran for Second Time in 3 Days](https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html) — nytimes.com · world, US
-- [U.S. Conducts New Strikes on Southern Iran](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal) — nytimes.com · world, US
-- [Trump Says He Feels No Political Pressure to Make an Iran Deal](https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html) — nytimes.com · world, US
-- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Sixteen pupils killed in Kenya school fire, local police say](https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Residents Watch as Israeli War Planes Circle Over Southern Lebanon](https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html) — nytimes.com · world, US
-- [Oil prices jump after US launches new attacks on Iran](https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Jill Biden says she thought husband was having a stroke during 2024 debate](https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Israel strikes southern Lebanon after evacuation orders](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Israel Continues Its Escalation in Lebanon With New Evacuation Warnings](https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html) — nytimes.com · world, US
-- [Here’s the latest.](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest) — nytimes.com · world, US
-- [Google worker charged with using internal data to make $1.2m on bets](https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/) — techcrunch.com · technology, AI
-- [Five People Stuck in Flooded Laos Cave Are Found Alive](https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html) — nytimes.com · world, US
-- [Duterte ICC trial to start on 30 November: What you need to know](https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Cease-Fires, but No Peace](https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html) — nytimes.com · world, US
-- [Australia sues US giant 3M over 'forever chemicals' in firefighting foam](https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [Australia charges woman who returned from Syria with joining Islamic State](https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-
-## 2026-05-27
-
-- [Woman caught after 30 years on the run is jailed for armed robberies](https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
-- [With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup](https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/) — techcrunch.com · technology, AI
-- [Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists](https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html) — nytimes.com · world, US
-- [Why paying £5 for a latte is here to stay](https://www.bbc.com/news/videos/c0e2y90wr3do?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
-- [Why it's now harder to get a Saturday job](https://www.bbc.com/news/videos/cpqp37577x7o?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy
