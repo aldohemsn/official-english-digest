@@ -1,17 +1,43 @@
 # Curated Links
 
 
+## 2026-05-30
+
+- [Who’s the Vegas Retiree With the Big Offer for Greenland?](https://www.nytimes.com/2026/05/30/world/europe/greenland-trump-clifford-stanley.html) — nytimes.com · world, US
+- [Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict](https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html) — nytimes.com · world, US
+- [Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say](https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html) — nytimes.com · world, US
+- [Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back](https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html) — nytimes.com · world, US
+- [Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal](https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal) — nytimes.com · world, US
+- [How Curry Shops Got Caught in Japan’s Immigration Crackdown](https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html) — nytimes.com · world, US
+- [Canadian Man Pleads Guilty to Aiding 14 Suicides](https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html) — nytimes.com · world, US
+- [After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.](https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html) — nytimes.com · world, US
+
 ## 2026-05-29
 
+- [What to Know About the Drones That Have Been Crossing Into Romania](https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html) — nytimes.com · world, US
 - [U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz](https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html) — nytimes.com · world, US
+- [U.N. Adds Israeli and Russian Forces to Sexual Violence List](https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html) — nytimes.com · world, US
 - [The Man Turning the Cockroach Into a Gen-Z Movement in India](https://www.nytimes.com/2026/05/28/world/asia/cockroach-janta-party-india-movement.html) — nytimes.com · world, US
 - [Russian Drone Hits Romanian Apartment Building](https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html) — nytimes.com · world, US
+- [Romania Says It Could Invoke NATO’s Article 4. What Would That Do?](https://www.nytimes.com/2026/05/29/world/europe/nato-article-4-romania-russia.html) — nytimes.com · world, US
+- [One of Five Gold Miners Is Rescued From Laos Cave After More Than a Week](https://www.nytimes.com/2026/05/29/world/asia/laos-cave-rescue.html) — nytimes.com · world, US
+- [No, Not That Georgia. A.I. Compounds a Nation’s Identity Woes.](https://www.nytimes.com/2026/05/29/world/europe/georgia-name-confusion.html) — nytimes.com · world, US
+- [Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference](https://www.nytimes.com/2026/05/29/world/americas/mexico-ban-election-meddling-foreign-powers.html) — nytimes.com · world, US
+- [Kenya Arrests 8 Students After Fire at School Dorm Kills 16](https://www.nytimes.com/2026/05/29/world/africa/kenya-school-fire-arrests-students.html) — nytimes.com · world, US
 - [Italian Police Uncover Dead Mob Boss’s $230 Million Business Empire](https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html) — nytimes.com · world, US
+- [Israeli Troops Push Deeper Into Lebanon as Cease-Fire Talks Continue](https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html) — nytimes.com · world, US
 - [Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist](https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html) — nytimes.com · world, US
 - [Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal) — nytimes.com · world, US
+- [Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.](https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html) — nytimes.com · world, US
+- [How Fuel Price Shocks Rattled a Remote New Zealand Village](https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html) — nytimes.com · world, US
+- [Here’s the latest.](https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal/heres-the-latest) — nytimes.com · world, US
+- [France’s Far Right Has 2 Leaders. They Don’t Always Have One Voice.](https://www.nytimes.com/2026/05/29/world/europe/france-presidential-election-le-pen-bardella.html) — nytimes.com · world, US
 - [Europe Is Edging Closer to a Trade War With China. Here’s Why.](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html) — nytimes.com · world, US
+- [Court in Kenya Suspends Plans for U.S. Ebola Quarantine Unit](https://www.nytimes.com/2026/05/29/world/africa/us-kenya-quarantine-unit-ebola.html) — nytimes.com · world, US
 - [Carney Says That Canada’s Distancing is Good for U.S. in New York Speech](https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html) — nytimes.com · world, US
+- [British Museum Postpones Jewish Cultural Event, Citing Threat of Disruption](https://www.nytimes.com/2026/05/29/world/europe/london-british-museum-antisemitsm.html) — nytimes.com · world, US
 - [After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups](https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html) — nytimes.com · world, US
+- [Abdu Rabbu Mansour Hadi, Exiled Ex-President of Yemen, Dies at 80](https://www.nytimes.com/2026/05/29/world/africa/abdrabbuh-mansour-hadi-dead.html) — nytimes.com · world, US
 - [A.I.’s Big Next Step](https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html) — nytimes.com · world, US
 - [A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.](https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html) — nytimes.com · world, US
 

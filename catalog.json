@@ -1,7 +1,280 @@
 {
   "v": 1,
-  "updated_at": "2026-05-29T07:11:55.574Z",
+  "updated_at": "2026-05-30T06:55:03.473Z",
   "articles": [
+    {
+      "id": "2026-05-30-who-s-the-vegas-retiree-with-the-big-offer-for-gre",
+      "title": "Who’s the Vegas Retiree With the Big Offer for Greenland?",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/greenland-trump-clifford-stanley.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-who-s-the-vegas-retiree-with-the-big-offer-for-greenland.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-vietnam-s-leader-warns-asia-about-the-risks-of-sup",
+      "title": "Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-vietnam-s-leader-warns-asia-about-the-risks-of-superpower-co.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-us-not-turning-back-on-asia-allies-but-expects-the",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-us-not-turning-back-on-asia-allies-but-expects-them-to-boost.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-ukraine-using-ai-drones-to-strike-vital-convoys-su",
+      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-ukraine-using-ai-drones-to-strike-vital-convoys-supplying-ru.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-trump-s-boat-strikes-have-failed-to-curb-cocaine-f",
+      "title": "Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-trump-s-boat-strikes-have-failed-to-curb-cocaine-flow-to-u-s.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-spains-s-nchez-digs-in-after-eight-years-as-pm-as-",
+      "title": "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-spains-s-nchez-digs-in-after-eight-years-as-pm-as-wave-of-sc.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-no-deal-announced-after-trump-meeting-to-make-fina",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-no-deal-announced-after-trump-meeting-to-make-final-determin.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-move-over-heated-rivalry-theres-a-new-ice-hockey-r",
+      "title": "Move over, Heated Rivalry - there's a new ice hockey romance obsession ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/clypz87rqy1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-move-over-heated-rivalry-theres-a-new-ice-hockey-romance-obs.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-lithuania-once-occupied-by-germany-is-glad-german-",
+      "title": "Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-lithuania-once-occupied-by-germany-is-glad-german-troops-are.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-iran-war-updates-trump-puts-off-final-determinatio",
+      "title": "Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-iran-war-updates-trump-puts-off-final-determination-on-iran-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-i-went-to-the-so-called-steroid-olympics-to-unders",
+      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "date": "2026-05-30",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-30-i-went-to-the-so-called-steroid-olympics-to-understand-why-s.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-how-curry-shops-got-caught-in-japan-s-immigration-",
+      "title": "How Curry Shops Got Caught in Japan’s Immigration Crackdown",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-how-curry-shops-got-caught-in-japan-s-immigration-crackdown.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-gifts-from-a-lover-and-botched-cocaine-raids-polic",
+      "title": "'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ce9p5e1jg72o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-gifts-from-a-lover-and-botched-cocaine-raids-police-inquiry-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-ghana-parliament-passes-anti-lgbtq-bill",
+      "title": "Ghana parliament passes anti-LGBTQ+ bill",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-ghana-parliament-passes-anti-lgbtq-bill.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-founders-seize-on-indian-court-ruling-to-revive-cr",
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "date": "2026-05-30",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-30-founders-seize-on-indian-court-ruling-to-revive-criticism-of.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-former-us-attorney-general-pam-bondi-defends-her-h",
+      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-30-former-us-attorney-general-pam-bondi-defends-her-handling-of.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-30-canadian-man-pleads-guilty-to-aiding-14-suicides",
+      "title": "Canadian Man Pleads Guilty to Aiding 14 Suicides",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-canadian-man-pleads-guilty-to-aiding-14-suicides.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-30-after-orban-s-defeat-hungary-is-poised-to-get-bill",
+      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+      "date": "2026-05-30",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-30-after-orban-s-defeat-hungary-is-poised-to-get-billions-from-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-what-to-know-about-the-drones-that-have-been-cross",
+      "title": "What to Know About the Drones That Have Been Crossing Into Romania",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-what-to-know-about-the-drones-that-have-been-crossing-into-r.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-what-happens-when-companies-become-too-ai-pilled",
+      "title": "What happens when companies become too AI-pilled?",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-what-happens-when-companies-become-too-ai-pilled.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-what-does-blue-origin-rocket-mishap-mean-for-nasas",
+      "title": "What does Blue Origin rocket mishap mean for Nasa's Moon mission?",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-what-does-blue-origin-rocket-mishap-mean-for-nasas-moon-miss.md",
+      "type": "full-text"
+    },
     {
       "id": "2026-05-29-waymo-dominates-autonomous-vehicle-registrations-a",
       "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
@@ -29,6 +302,19 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-29-universal-rejects-billionaire-bill-ackmans-takeove",
+      "title": "Universal rejects billionaire Bill Ackman's takeover bid ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-29-universal-rejects-billionaire-bill-ackmans-takeover-bid.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-u-s-and-iran-move-toward-agreement-to-reopen-the-s",
       "title": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
       "source": "nytimes.com",
@@ -40,6 +326,58 @@
       ],
       "file": "articles/2026-05-29-u-s-and-iran-move-toward-agreement-to-reopen-the-strait-of-h.md",
       "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-u-n-adds-israeli-and-russian-forces-to-sexual-viol",
+      "title": "U.N. Adds Israeli and Russian Forces to Sexual Violence List",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-u-n-adds-israeli-and-russian-forces-to-sexual-violence-list.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-top-uk-chefs-call-for-cutting-vat-for-pubs-and-res",
+      "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-29-top-uk-chefs-call-for-cutting-vat-for-pubs-and-restaurants-t.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-today-is-the-last-day-to-apply-to-speak-at-techcru",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrup.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-this-chip-startup-just-raised-135m-on-a-bet-that-a",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-this-chip-startup-just-raised-135m-on-a-bet-that-ai-s-bigges.md",
+      "type": "full-text"
     },
     {
       "id": "2026-05-29-the-man-turning-the-cockroach-into-a-gen-z-movemen",
@@ -55,6 +393,32 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-29-spacex-awarded-6-45b-in-space-force-contracts-ahea",
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-so-you-ve-heard-these-ai-terms-and-nodded-along-le",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-so-you-ve-heard-these-ai-terms-and-nodded-along-let-s-fix-th.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-russian-drone-hits-romanian-apartment-building",
       "title": "Russian Drone Hits Romanian Apartment Building",
       "source": "nytimes.com",
@@ -65,6 +429,71 @@
         "US"
       ],
       "file": "articles/2026-05-29-russian-drone-hits-romanian-apartment-building.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-romania-says-it-could-invoke-nato-s-article-4-what",
+      "title": "Romania Says It Could Invoke NATO’s Article 4. What Would That Do?",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/nato-article-4-romania-russia.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-romania-says-it-could-invoke-nato-s-article-4-what-would-tha.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-poison-seller-who-sold-toxic-chemicals-online-to-p",
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-poison-seller-who-sold-toxic-chemicals-online-to-people-acro.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-only-three-quarters-of-first-class-mail-delivered-",
+      "title": "Only three-quarters of first class mail delivered on time",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-29-only-three-quarters-of-first-class-mail-delivered-on-time.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-one-of-five-gold-miners-is-rescued-from-laos-cave-",
+      "title": "One of Five Gold Miners Is Rescued From Laos Cave After More Than a Week",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/asia/laos-cave-rescue.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-one-of-five-gold-miners-is-rescued-from-laos-cave-after-more.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-no-not-that-georgia-a-i-compounds-a-nation-s-ident",
+      "title": "No, Not That Georgia. A.I. Compounds a Nation’s Identity Woes.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/georgia-name-confusion.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-no-not-that-georgia-a-i-compounds-a-nation-s-identity-woes.md",
       "type": "link-only"
     },
     {
@@ -94,6 +523,19 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-29-mumbais-famed-dabbawalas-fed-millions-for-over-100",
+      "title": "Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c202d0l92weo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-mumbais-famed-dabbawalas-fed-millions-for-over-100-years-now.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-moment-blue-origin-rocket-explodes-during-test-in-",
       "title": "Moment Blue Origin rocket explodes during test in Florida",
       "source": "bbc.com",
@@ -105,6 +547,58 @@
       ],
       "file": "articles/2026-05-29-moment-blue-origin-rocket-explodes-during-test-in-florida.md",
       "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-microsoft-under-fire-for-threatening-security-rese",
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-microsoft-under-fire-for-threatening-security-researcher-wit.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-mexican-senate-votes-to-allow-voiding-elections-ov",
+      "title": "Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/americas/mexico-ban-election-meddling-foreign-powers.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-mexican-senate-votes-to-allow-voiding-elections-over-foreign.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-kiwibit-s-ai-powered-bird-feeder-is-my-new-backyar",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-kiwibit-s-ai-powered-bird-feeder-is-my-new-backyard-buddy.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-kenya-arrests-8-students-after-fire-at-school-dorm",
+      "title": "Kenya Arrests 8 Students After Fire at School Dorm Kills 16",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/africa/kenya-school-fire-arrests-students.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-kenya-arrests-8-students-after-fire-at-school-dorm-kills-16.md",
+      "type": "link-only"
     },
     {
       "id": "2026-05-29-italy-restores-lucky-testicles-on-bull-mosaic-worn",
@@ -133,6 +627,19 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-29-israeli-troops-push-deeper-into-lebanon-as-cease-f",
+      "title": "Israeli Troops Push Deeper Into Lebanon as Cease-Fire Talks Continue",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-israeli-troops-push-deeper-into-lebanon-as-cease-fire-talks-.md",
+      "type": "link-only"
+    },
+    {
       "id": "2026-05-29-israel-to-cut-ties-with-u-n-chief-over-its-inclusi",
       "title": "Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist",
       "source": "nytimes.com",
@@ -146,6 +653,19 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-29-israel-put-on-un-sexual-violence-in-warzones-black",
+      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-israel-put-on-un-sexual-violence-in-warzones-blacklist-for-f.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-iran-war-updates-u-s-officials-say-they-are-closin",
       "title": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz",
       "source": "nytimes.com",
@@ -156,6 +676,45 @@
         "US"
       ],
       "file": "articles/2026-05-29-iran-war-updates-u-s-officials-say-they-are-closing-in-on-ar.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-iran-s-hard-liners-try-to-derail-potential-deal-wi",
+      "title": "Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-iran-s-hard-liners-try-to-derail-potential-deal-with-the-u-s.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-how-fuel-price-shocks-rattled-a-remote-new-zealand",
+      "title": "How Fuel Price Shocks Rattled a Remote New Zealand Village",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-how-fuel-price-shocks-rattled-a-remote-new-zealand-village.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-here-s-the-latest",
+      "title": "Here’s the latest.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal/heres-the-latest",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-here-s-the-latest.md",
       "type": "link-only"
     },
     {
@@ -172,6 +731,71 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-29-france-s-far-right-has-2-leaders-they-don-t-always",
+      "title": "France’s Far Right Has 2 Leaders. They Don’t Always Have One Voice.",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/france-presidential-election-le-pen-bardella.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-france-s-far-right-has-2-leaders-they-don-t-always-have-one-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-first-of-five-men-found-alive-in-flooded-laos-cave",
+      "title": "First of five men found alive in flooded Laos cave rescued",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-first-of-five-men-found-alive-in-flooded-laos-cave-rescued.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-final-24-hours-to-save-up-to-410-on-your-techcrunc",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-exploding-rocket-casts-doubts-over-nasas-moon-plan",
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-exploding-rocket-casts-doubts-over-nasas-moon-plans.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-ex-head-monk-of-chinas-kung-fu-temple-jailed-for-e",
+      "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-ex-head-monk-of-chinas-kung-fu-temple-jailed-for-embezzlemen.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-europe-is-edging-closer-to-a-trade-war-with-china-",
       "title": "Europe Is Edging Closer to a Trade War With China. Here’s Why.",
       "source": "nytimes.com",
@@ -185,6 +809,84 @@
       "type": "link-only"
     },
     {
+      "id": "2026-05-29-energy-bills-to-go-up-for-power-ni-and-firmus-cust",
+      "title": "Energy bills to go up for Power NI and Firmus customers ",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cz9273747z8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "file": "articles/2026-05-29-energy-bills-to-go-up-for-power-ni-and-firmus-customers.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-eight-students-arrested-in-kenya-after-suspected-d",
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-eight-students-arrested-in-kenya-after-suspected-deadly-scho.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-court-in-kenya-suspends-plans-for-u-s-ebola-quaran",
+      "title": "Court in Kenya Suspends Plans for U.S. Ebola Quarantine Unit",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/africa/us-kenya-quarantine-unit-ebola.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-court-in-kenya-suspends-plans-for-u-s-ebola-quarantine-unit.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-controversial-north-korean-invasion-setting-for-ne",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-controversial-north-korean-invasion-setting-for-next-call-of.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-cognition-s-scott-wu-says-ai-coding-agents-shouldn",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-cognition-s-scott-wu-says-ai-coding-agents-shouldn-t-replace.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-coders-are-refusing-to-work-without-ai-and-that-co",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them ",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-coders-are-refusing-to-work-without-ai-and-that-could-come-b.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-carney-says-that-canada-s-distancing-is-good-for-u",
       "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
       "source": "nytimes.com",
@@ -195,6 +897,19 @@
         "US"
       ],
       "file": "articles/2026-05-29-carney-says-that-canada-s-distancing-is-good-for-u-s-in-new-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-british-museum-postpones-jewish-cultural-event-cit",
+      "title": "British Museum Postpones Jewish Cultural Event, Citing Threat of Disruption",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/london-british-museum-antisemitsm.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-british-museum-postpones-jewish-cultural-event-citing-threat.md",
       "type": "link-only"
     },
     {
@@ -224,6 +939,19 @@
       "type": "full-text"
     },
     {
+      "id": "2026-05-29-after-nvidia-s-20b-not-acqui-hire-ai-chip-startup-",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "date": "2026-05-29",
+      "topics": [
+        "technology",
+        "AI"
+      ],
+      "file": "articles/2026-05-29-after-nvidia-s-20b-not-acqui-hire-ai-chip-startup-groq-repor.md",
+      "type": "full-text"
+    },
+    {
       "id": "2026-05-29-after-new-push-by-the-bolsonaros-u-s-labels-brazil",
       "title": "After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups",
       "source": "nytimes.com",
@@ -234,6 +962,32 @@
         "US"
       ],
       "file": "articles/2026-05-29-after-new-push-by-the-bolsonaros-u-s-labels-brazilian-gangs-.md",
+      "type": "link-only"
+    },
+    {
+      "id": "2026-05-29-after-decades-risking-arrest-south-koreas-tattoo-a",
+      "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "news"
+      ],
+      "file": "articles/2026-05-29-after-decades-risking-arrest-south-koreas-tattoo-artists-ste.md",
+      "type": "full-text"
+    },
+    {
+      "id": "2026-05-29-abdu-rabbu-mansour-hadi-exiled-ex-president-of-yem",
+      "title": "Abdu Rabbu Mansour Hadi, Exiled Ex-President of Yemen, Dies at 80",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/29/world/africa/abdrabbuh-mansour-hadi-dead.html",
+      "date": "2026-05-29",
+      "topics": [
+        "world",
+        "US"
+      ],
+      "file": "articles/2026-05-29-abdu-rabbu-mansour-hadi-exiled-ex-president-of-yemen-dies-at.md",
       "type": "link-only"
     },
     {
