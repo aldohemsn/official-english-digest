@@ -18,6 +18,15 @@ function hostOf(url) {
   try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return 'unknown'; }
 }
 
+function resolveItemUrl(item) {
+  const link = item.link;
+  const guid = typeof item.guid === 'string' ? item.guid : null;
+  if (link?.includes('news.un.org/feed/view') && guid?.includes('/en/story/')) {
+    return guid;
+  }
+  return link;
+}
+
 function resolveItemDate(item, url) {
   const pub = parseItemDate(item);
   if (pub) return toDateString(pub);
@@ -45,7 +54,7 @@ export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = 
     for (const item of items) {
       if (feedCount >= maxPerFeed) break;
 
-      const url = item.link;
+      const url = resolveItemUrl(item);
       if (!url || isSeen(seenUrls, url)) continue;
 
       const date = resolveItemDate(item, url);

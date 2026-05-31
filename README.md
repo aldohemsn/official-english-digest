@@ -1,10 +1,10 @@
-# grok-articles
+# Official English Digest
 
-A daily-refreshed **full-text** reading list for English coaching — works with Claude, ChatGPT, Gemini, Grok, or any LLM. No connectors or live URL fetching required at chat time.
+A daily-refreshed **full-text** reading list from authoritative official English sources — for English coaching with Claude, ChatGPT, Gemini, Grok, or any LLM. No connectors or live URL fetching required at chat time.
 
 ## Quick start (any LLM)
 
-1. Open **[DIGEST.md](DIGEST.md)** — 8 recent articles with **full body text inline** (~25 KB)
+1. Open **[DIGEST.md](DIGEST.md)** — 8 recent articles with **full body text inline** (~30 KB)
 2. Upload it to your AI project's knowledge files, or paste it into a new chat
 3. Say: `Pick one article from the digest and start an English coaching session`
 
@@ -12,12 +12,16 @@ That's it. The LLM reads everything from the file — no GitHub connector, no pa
 
 ## Sources
 
-| Category | Outlets | Method |
-|----------|---------|--------|
-| Western media | BBC (world, business, tech), TechCrunch, The Guardian (world, US) | RSS + Readability |
-| Chinese official media (English) | China Daily, Xinhua | Scrape current index pages + Readability |
+Official English publications from four authoritative outlets:
 
-All articles are stored as **full text** in `articles/`. Paywalled sources (NYT, Economist) are excluded because body extraction fails.
+| Region | Outlet | Method |
+|--------|--------|--------|
+| China | [State Council](https://english.www.gov.cn/news) (english.www.gov.cn) | Scrape news index + Readability |
+| United States | [White House Releases](https://www.whitehouse.gov/releases/) | Scrape releases index + Readability |
+| United Kingdom | [GOV.UK news](https://www.gov.uk/search/news-and-communications) | Official Atom feed + Readability |
+| United Nations | [UN News](https://news.un.org/en/news) | Official RSS + Readability |
+
+All articles are stored as **full text** in `articles/`. Only sources with reliable body extraction are included.
 
 ## Repo layout
 
@@ -38,7 +42,7 @@ npm run build    # regenerate catalog, latest.md, DIGEST.md
 npm test
 ```
 
-One-time cleanup of stale/paywall placeholder articles:
+One-time cleanup of stale or deprecated-source articles:
 
 ```bash
 node scripts/purge-bad-articles.js

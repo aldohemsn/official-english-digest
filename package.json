@@ -1,6 +1,7 @@
 {
-  "name": "grok-articles",
+  "name": "official-english-digest",
   "version": "1.0.0",
+  "description": "Daily full-text digest from official government and UN English sources for LLM-based English coaching",
   "type": "module",
   "private": true,
   "scripts": {

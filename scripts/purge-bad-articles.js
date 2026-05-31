@@ -1,10 +1,21 @@
-import { readdir, readFile, writeFile, unlink } from 'node:fs/promises';
+import { readdir, readFile, unlink } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { loadSeenFile, saveSeenFile } from './lib/seen-urls.js';
 import { buildCatalog } from './build-catalog.js';
 
 const OLD_URL = /\/(201[0-9]|202[0-4])\//;
+
+const DEPRECATED_SOURCES = new Set([
+  'bbc.com',
+  'bbc.co.uk',
+  'techcrunch.com',
+  'theguardian.com',
+  'chinadaily.com.cn',
+  'english.news.cn',
+  'nytimes.com',
+  'economist.com',
+]);
 
 function isStaleUrl(url) {
   const s = String(url ?? '');
@@ -19,9 +30,14 @@ function isStaleUrl(url) {
   return false;
 }
 
+function isDeprecatedSource(source) {
+  return DEPRECATED_SOURCES.has(String(source ?? '').replace(/^www\./, ''));
+}
+
 function shouldPurge(meta) {
   if (meta.type === 'link-only') return true;
   if (isStaleUrl(meta.url)) return true;
+  if (isDeprecatedSource(meta.source)) return true;
   return false;
 }
 

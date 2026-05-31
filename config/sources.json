@@ -1,37 +1,33 @@
 {
   "rss": {
     "maxAgeDays": 2,
-    "maxPerFeed": 15,
+    "maxPerFeed": 10,
     "feeds": [
-      { "url": "https://feeds.bbci.co.uk/news/world/rss.xml",        "topics": ["world", "news"] },
-      { "url": "https://feeds.bbci.co.uk/news/business/rss.xml",     "topics": ["business", "economy"] },
-      { "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",   "topics": ["technology"] },
-      { "url": "https://techcrunch.com/feed/",                       "topics": ["technology", "AI"] },
-      { "url": "https://www.theguardian.com/world/rss",              "topics": ["world", "news"] },
-      { "url": "https://www.theguardian.com/us-news/rss",            "topics": ["US", "politics"] }
+      {
+        "url": "https://www.gov.uk/search/news-and-communications.atom",
+        "topics": ["UK", "government"]
+      },
+      {
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "topics": ["UN", "world"]
+      }
     ]
   },
   "scrape": {
-    "maxAgeDays": 2,
+    "maxAgeDays": 7,
     "maxPerSource": 8,
     "targets": [
       {
-        "name": "ChinaDaily",
-        "domain": "chinadaily.com.cn",
-        "indexUrl": "https://www.chinadaily.com.cn/world",
-        "topics": ["China", "world"]
+        "name": "StateCouncil",
+        "domain": "english.www.gov.cn",
+        "indexUrl": "https://english.www.gov.cn/news",
+        "topics": ["China", "government"]
       },
       {
-        "name": "ChinaDaily",
-        "domain": "chinadaily.com.cn",
-        "indexUrl": "https://www.chinadaily.com.cn/china",
-        "topics": ["China"]
-      },
-      {
-        "name": "Xinhua",
-        "domain": "english.news.cn",
-        "indexUrl": "https://english.news.cn/world/index.htm",
-        "topics": ["China", "world"]
+        "name": "WhiteHouse",
+        "domain": "whitehouse.gov",
+        "indexUrl": "https://www.whitehouse.gov/releases/",
+        "topics": ["US", "government"]
       }
     ]
   }

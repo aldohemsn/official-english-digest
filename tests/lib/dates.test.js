@@ -1,6 +1,19 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { dateFromUrl, parseItemDate, isWithinMaxAge } from '../../scripts/lib/dates.js';
+import {
+  dateFromUrl,
+  parseListingDate,
+  dateFromDatetime,
+  parseItemDate,
+  isWithinMaxAge,
+} from '../../scripts/lib/dates.js';
+
+test('dateFromUrl parses State Council gov.cn URLs', () => {
+  assert.equal(
+    dateFromUrl('https://english.www.gov.cn/news/202605/31/content_WS6a1b926fc6d00ca5f9a0b580.html'),
+    '2026-05-31',
+  );
+});
 
 test('dateFromUrl parses ChinaDaily URLs', () => {
   assert.equal(
@@ -18,13 +31,31 @@ test('dateFromUrl parses Xinhua URLs', () => {
 
 test('dateFromUrl parses generic YYYY/MM/DD URLs', () => {
   assert.equal(
-    dateFromUrl('https://www.theguardian.com/world/2026/05/31/example'),
-    '2026-05-31',
+    dateFromUrl('https://www.gov.uk/government/news/example-2026-05-31'),
+    null,
+  );
+  assert.equal(
+    dateFromUrl('https://news.un.org/en/story/2026/05/1167606'),
+    null,
+  );
+  assert.equal(
+    dateFromUrl('https://www.whitehouse.gov/releases/2026/05/example/'),
+    null,
   );
 });
 
 test('dateFromUrl returns null for unknown patterns', () => {
   assert.equal(dateFromUrl('https://example.com/story'), null);
+});
+
+test('parseListingDate parses slash and named dates', () => {
+  assert.equal(parseListingDate('2026/05/31'), '2026-05-31');
+  assert.equal(parseListingDate('May 27, 2026'), '2026-05-27');
+  assert.equal(parseListingDate('invalid'), null);
+});
+
+test('dateFromDatetime extracts YYYY-MM-DD', () => {
+  assert.equal(dateFromDatetime('2026-05-27T14:01:52-04:00'), '2026-05-27');
 });
 
 test('parseItemDate reads pubdate custom field', () => {

@@ -12,18 +12,27 @@ function compareArticles(a, b) {
   return b.id.localeCompare(a.id);
 }
 
-export function selectWithSourceCap(articles, { limit, maxPerSourcePerDay = MAX_PER_SOURCE_PER_DAY, fullTextOnly = false } = {}) {
+export function selectWithSourceCap(articles, {
+  limit,
+  maxPerSourcePerDay = MAX_PER_SOURCE_PER_DAY,
+  maxPerSourceTotal = null,
+  fullTextOnly = false,
+} = {}) {
   const sorted = [...articles].sort(compareArticles);
   const picked = [];
-  const counts = new Map();
+  const dayCounts = new Map();
+  const sourceCounts = new Map();
 
   for (const a of sorted) {
     if (fullTextOnly && a.type !== 'full-text') continue;
-    const key = `${a.date}|${a.source}`;
-    const n = counts.get(key) ?? 0;
-    if (n >= maxPerSourcePerDay) continue;
+    const dayKey = `${a.date}|${a.source}`;
+    const dayN = dayCounts.get(dayKey) ?? 0;
+    if (dayN >= maxPerSourcePerDay) continue;
+    const sourceN = sourceCounts.get(a.source) ?? 0;
+    if (maxPerSourceTotal != null && sourceN >= maxPerSourceTotal) continue;
     picked.push(a);
-    counts.set(key, n + 1);
+    dayCounts.set(dayKey, dayN + 1);
+    sourceCounts.set(a.source, sourceN + 1);
     if (picked.length >= limit) break;
   }
   return picked;
@@ -60,7 +69,8 @@ function truncateBody(body, maxChars = DIGEST_MAX_CHARS) {
 export async function digestMd(articles, rootDir, updatedAt) {
   const picked = selectWithSourceCap(articles, {
     limit: DIGEST_COUNT,
-    maxPerSourcePerDay: 2,
+    maxPerSourcePerDay: 99,
+    maxPerSourceTotal: 2,
     fullTextOnly: true,
   });
 

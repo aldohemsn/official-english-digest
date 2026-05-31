@@ -1,105 +1,447 @@
 # Daily Reading Digest
-Updated: 2026-05-31T03:20:32.044Z  ·  8 articles, full text inline
+Updated: 2026-05-31T03:46:07.317Z  ·  8 articles, full text inline
 
 ---
 
-## 1. WHO chief calls for reconsideration of travel bans as DR Congo battles Ebola outbreak
-- Source: english.news.cn · Topics: China, world · Date: 2026-05-31
-- URL (reference only): https://english.news.cn/africa/20260531/86d4d652788c4147a0b825cbef7c43b4/c.html
+## 1. GTR services transferred to public ownership
+- Source: gov.uk · Topics: UK, government · Date: 2026-05-31
+- URL (reference only): https://www.gov.uk/government/news/gtr-services-transferred-to-public-ownership
 
-World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus is pictured in Bunia, the capital of Ituri Province in the Democratic Republic of the Congo, May 30, 2026. Tedros on Saturday called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo and Uganda to reconsider such measures. (Xinhua)BUNIA, DR Congo, May 30 (Xinhua) -- World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus on Saturday called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda to reconsider such measures.Speaking at a joint press conference in Bunia, the capital of the northeastern Ituri Province and the epicenter of the Ebola outbreak, Tedros said such restrictions could complicate response efforts and risk discouraging transparency and trust, which are essential to saving lives."I call on countries that have imposed travel bans or border closures to reconsider. These measures make the response harder, and they discourage transparency and trust that saves lives," Tedros said.Despite the lack of approved vaccines and specific medicines, the WHO chief said patients could still recover if they receive timely, quality medical care.Tedros said his visit to Bunia was also aimed at engaging directly with affected communities in this outbreak, in which over 1000 suspected cases have been reported.Uganda has also reported nine confirmed cases after detecting two new infections in the capital, Kampala, the Ugandan health ministry said on Friday.DRC Health Minister Roger Kamba said the country aims, "in the best-case scenario," to contain and end the outbreak within "four to six months," based on its experience in responding to epidemics and the known course of the Ebola virus disease.He said the immediate priority is to contain the virus within the three affected provinces -- Ituri, North Kivu and South Kivu -- and prevent further spread.Kamba also highlighted the country's strengthened laboratory testing capacity, with no backlog of samples remaining. Around 900 samples had been tested, of which about 260 were positive, he said, adding that the country now has the capacity to process all incoming samples, even if daily testing rises to 200 or 300 samples. ■World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus (C) arrives in Bunia, the capital of Ituri Province in the Democratic Republic of the Congo, May 30, 2026. Tedros on Saturday called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo and Uganda to reconsider such measures. (Xinhua)
+GTR services are now managed by DfT Operator Ltd (DFTO).
+
+  
+
+
+
+
+
+
+
+
+
+
+          
+    
+
+        From today (31 May 2026), GTR services, operating as Thameslink, Southern, Great Northern and Gatwick Express will transfer into public ownership and be managed by DfT Operator Limited (DFTO).
+
+DFTO is the government’s rail owning group and delivery partner for its flagship public ownership programme. It is responsible for bringing all the DfT-managed and privately-owned train operators into public ownership, ahead of the creation of Great British Railways (GBR).
+
+Eight in 10 passenger rail journeys that GBR will ultimately be responsible for are now delivered by publicly owned operators under DFTO.
+
+Public ownership puts passengers at the heart of the railways. It will help to deliver an improved service to customers by enabling public sector train operators and Network Rail to be brought together under GBR to improve performance and customer experience while working to reduce subsidy, empower colleagues, and continuously prioritise safety and sustainability.
+
+See the Department for Transport press release for more information.
 
 ---
 
-## 2. U.S. military strikes alleged drug boat in eastern Pacific, killing 3
-- Source: english.news.cn · Topics: China, world · Date: 2026-05-31
-- URL (reference only): https://english.news.cn/northamerica/20260531/45a4113fbe0845e98bc76ed42a8bcff4/c.html
+## 2. Canada, China vow to strengthen bilateral ties, uphold multilateralism
+- Source: english.www.gov.cn · Topics: China, government · Date: 2026-05-31
+- URL (reference only): https://english.www.gov.cn/news/202605/31/content_WS6a1b926fc6d00ca5f9a0b580.html
 
-WASHINGTON, May 30 (Xinhua) -- The U.S. military struck an alleged narco-trafficking boat in the eastern Pacific on Saturday, killing three people aboard, the U.S. Southern Command said.   "Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the Eastern Pacific and was engaged in narco-trafficking operations," the command said in a post on X.   Three male "narco-terrorists" were killed during this action and no U.S. military forces were harmed, it added.   Since early September, the U.S. military has conducted dozens of lethal airstrikes on suspected drug-trafficking boats, claiming more than 200 lives in total.  ■
-
----
-
-## 3. Trump news at a glance: president in ‘excellent health’, his doctor says after routine medical check
-- Source: theguardian.com · Topics: US, politics · Date: 2026-05-31
-- URL (reference only): https://www.theguardian.com/us-news/2026/may/31/trump-news-at-a-glance-president-in-excellent-health-his-doctor-says-after-routine-medical-check
-
-US President Donald Trump’s doctor said he was in “excellent health” but has advised him to lose weight, according to a memo released by the White House after the 79-year-old underwent a routine medical check.“President Trump remains in excellent health, demonstrating strong cardiac, pulmonary, neurological and overall physical function,” said Trump’s doctor, US Navy captain Sean Barbabella.The three-page memo provides an overview of Trump’s physical examination and diagnostic testing conducted at Walter Reed Medical hospital near Washington on Tuesday.Meanwhile, a federal judge has reopened Trump’s Internal Revenue Service (IRS) suit to examine a $1.8bn settlement with the justice department.The decision by Miami judge Kathleen Williams to reopen the case – itself an unusual move, given that civil plaintiffs have broad latitude to drop complaints – was returned after a bipartisan group of 35 former federal judges urged her to look more closely at the settlement.White House releases memo describing results of Trump’s health checkupDonald Trump has been grappling with “lower leg swelling” as well as “benign” hand bruising but remains in excellent health, the US president’s physician said in a memo released by the White House.Citing the results of a recent examination, the memo from Dr Sean Barbabella said Trump “remains in excellent health, demonstrating strong cardiac, pulmonary, neurological and overall physical function”.The memo, dated Tuesday and released late on Friday, asserted the president is “fully fit to carry out all duties” of the presidency.Read the full storyJudge reopens Trump’s IRS suit to examine $1.8bn settlement with justice departmentA federal judge has reopened Donald Trump’s $10bn case against the Internal Revenue Service (IRS), after receiving a third-party motion asserting that the $1.8 bln settlement, which lacks detail, “is a product of collusion and is itself a fraud on the court”.The ruling, issued by the Miami judge Kathleen Williams, revives a lawsuit brought by the president and his sons against the IRS after their personal and business tax returns were leaked by a former contractor.Read the full story‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claimsThe first lawsuit relating to the largest immigration detention facility in the US was filed early on Saturday against Immigration and Customs Enforcement (ICE), accusing the agency of “dire” conditions that severely violate the human and constitutional rights of those locked up at the camp in Texas.A clutch of legal organizations is suing via a class-action complaint, listing four detainees as plaintiffs for themselves and on behalf of all those currently held as civil detainees at Camp East Montana or who will be held there in the future.Read the full storyWhat else happened today:
+Canadian Prime Minister Mark Carney meets with Wang Yi, a member of the Political Bureau of the Communist Party of China Central Committee and Chinese foreign minister, in Ottawa, Canada, May 29, 2026. [Photo/Xinhua] 
+  
  
-  Billionaire supporter of E Jean Carroll says inquiry meant to ‘silence’ Trump critics.
- 
-  Looming Iran peace deal shows how Trump’s maximalist goals have shrunk, writes Robert Tait, in this analysis about an elusive peace deal to end the Middle East conflict.
- 
-  There is little sign of clarity in the closing stretch of a campaign season for governor, Congress and LA mayor, writes the Guardian’s Lauren Gambino, in this piece examining how California is bracing for its most turbulent election in years.
- 
-  Alba Asenjo Domínguez has this special report on an ICE detention case: Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention.
-Catching up? Here’s what happened TTKTKT.
+OTTAWA, May 29 -- Canadian Prime Minister Mark Carney and visiting Chinese Foreign Minister Wang Yi on Friday vowed to deepen bilateral ties and uphold multilateralism. 
+Carney voiced Canada's willingness to work with China to maintain close high-level exchanges, deepen cooperation in fields such as energy, finance, agriculture and fisheries, and keep consolidating the foundation of bilateral relations. 
+Canada supports China in hosting the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting, he said, adding that Ottawa is ready to work with Beijing to jointly champion and practice multilateralism, so as to make positive contributions to global economic development and world peace and stability. 
+Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, said facts have proven that a better China-Canada relationship serves the interests of both countries, meets the expectations of all parties, and represents the right choice for Canada, emphasizing that there are no clashes of fundamental interests between the two nations and there is enormous room for cooperation. 
+Wang said that both sides should uphold multilateralism, the international rule of law, and strategic autonomy, while actively supporting free trade and an open world economy. 
+He expressed his willingness to make contributions to friendly exchanges between the two nations.
 
 ---
 
-## 4. The household battery revolution that could change energy bills … and the world
-- Source: theguardian.com · Topics: world, news · Date: 2026-05-31
-- URL (reference only): https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis
+## 3. Xi exchanges congratulations with Egyptian president on 70th anniversary of ties
+- Source: english.www.gov.cn · Topics: China, government · Date: 2026-05-30
+- URL (reference only): https://english.www.gov.cn/news/202605/30/content_WS6a1a45c4c6d00ca5f9a0b538.html
 
-The timing was rich with symbolism. As intense heatwaves pummelled Europe and Asia, and oil markets around the world leapt and sputtered, the two big chimneys of one of Australia’s largest power stations were being demolished. Meanwhile, the Australian energy minister was holding a media conference to hail a fall of up to 10% in the benchmark electricity price in parts of the country.Quietly, and with surprisingly little fanfare from the rest of the world, Australia is pioneering a revolution in home renewables and battery use, proving what is possible with the right policies. The country was already one of the global leaders in domestic solar power, with panels on one in three homes. It also remains, however, a major contributor to the climate crisis through its vast fossil fuel exports.. But it is batteries that are giving Australia a new burst of speed.Nearly 60% of the household-scale battery capacity installed across almost 200 other countries this financial year will be in the southern continent, according to a recent analysis. Since July, about 415,000 have been connected – roughly one unit for every 25 Australian homes.Industrial-scale batteries are being built nearly as quickly, with Australia (population: 27 million) trailing only China (1.4 billion) and the US (350 million) in new capacity after connections more than doubled last year. The increase in battery usage big and small is starting to bring down the cost of electricity from the nation’s spindly power grid, which stretches more than 900,000km (560,000 miles) from tropical far-north Queensland to the southern island state of Tasmania.Chimneys at the defunct Liddell power station collapse during a controlled demolition. Photograph: AGL“It’s amazing,” says Tristan Edis, the author of the analysis and a director with the consultancy Green Energy Markets. “It shows again that if you go big with a technology, and you kick it off big from the start, you can make a really significant difference. If you’re a battery manufacturer focused on residential right now you really must be focused on Australia.”Batteries counter the long-used arguments against renewables – that they are unpredictable and intermittent and therefore put extra burdens on a national grid which must have an expensive backup power source such as gas in place. Instead, batteries mean solar power can be stored and used when it is needed.From early on in the renewable revolution, batteries were envisaged as a critical part of the puzzle. Homes would be able to install panels on their roofs to capture and convert solar energy, and batteries in their homes to store the energy and use it when they needed it. But while solar panel prices fell rapidly a few years ago, it is only in recent years that batteries have become similarly available and affordable. The US-Iran war and subsequent rise in energy prices has highlighted the advantages of renewable technologies like this, and the number of installations around the world has moved from a trickle a few years ago (Arsenal football ground being an unlikely pioneer) to a growing tide. China is far ahead, spending more on it than every other country combined. But among the rest, Australia has jumped the pack.Australia is a global leader in generating electricity from solar energy on per capita terms. Photograph: Bloomberg/Getty ImagesPreviously, power prices would rocket in the evenings as gas-fired power – the most expensive form of energy generation on the Australian grid – was turned on to meet peak demand. With solar and wind now providing nearly half the electricity, and coal-fired power plants gradually closing, gas has been used to fill gaps after the sun sets.But batteries are increasingly taking over that role. Total gas-fired generation was 24% lower across three months this summer compared with the year before. Tennant Reed, the climate change and energy director with the Australian Industry Group, representing more than 60,000 businesses, says it has “completely changed how electricity prices are formed”.“The role of gas used to be in the evening to meet the evening peak and that came at a cost, because gas is not a cheap fuel. But more and more, every day, it is batteries that are surging into the market at 6pm,” he says. “Gas will still play a backup role but, on average, batteries are not as expensive as gas peakers and they are pushing those [gas plants] out even as electricity demand increases.”In fairness, the battery usage rise has been possible partly because Australia is a world leader in household solar on per capita terms, though no government set out for this to be the case. More than a third of houses have panels due to a happy accident of uncoordinated policies, simple and quick permitting and widespread public support. Australia is, of course, blessed with lots of sunshine, and solar may not be as productive in more temperate countries.The number of solar panel installations around the world has increased rapidly as they have become cheaper. Photograph: Fairfax MediaBut it is a global story, according to Dave Jones at the energy analyst organisation Ember. “Home batteries are in the middle of a revolution, large grid-scale batteries have collapsed in price in the last two years, and the quality of them has remarkably improved, with far less critical minerals, a far longer lifetime, and with fire hazard all but eliminated. That is now feeding into the home battery market, and the home battery of today is vastly superior to the home battery of a couple of years ago.“Already in California, across 2025, there was more solar generation in the early evening than at lunchtime, because of batteries,” Jones said. “Batteries are even good enough now to give 24x365 electricity, with the largest 1GW 24x365 plant under construction.”The battery revolution has not been free. It was triggered by a generous taxpayer-funded subsidy from Anthony Albanese’s Labor government. Starting last July, it committed A$2.3…
-
----
-
-## 5. Hundreds arrested in France after wild Champions League celebrations
-- Source: bbc.com · Topics: world, news · Date: 2026-05-31
-- URL (reference only): https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss
-
-Hundreds arrested in France after wild Champions League celebrationsWatch: Paris police fire tear gas in clashes with triumphant PSG fansClashes between football fans and police across France have led to more than 400 arrests following the victory of Paris Saint-Germain (PSG) in the Champions League final against Arsenal.Thousands of officers were deployed to curb unrest that disrupted bus, train and rail services in the capital Paris.Fireworks and flares were set off, while several police officers were injured in the fray. Police fired tear gas to disperse crowds in the city centre.Anadolu via Getty ImagesFlares set off in central Paris after PSG defeated ArsenalFootage from Paris appears to show flares being set off, electric bikes burning on roads and revellers smashing the glass of at least one shopfront.The Champs-Élysées was swarmed by fans shortly after the French team won in a penalty shootout. Earlier in the day there were clashes between police and supporters who showed up to watch the final on giant screens at PSG's Parc des Princes. Police said six vehicles, two businesses and a bus shelter were damaged during the unrest.France's interior ministry said 416 were arrested in the early hours of Sunday, including 280 people in Paris.Interior minister Laurent Nuñez said seven officers had been injured and called the unrest "absolutely unacceptable". Far-right leader Marine Le Pen wrote on X: "Only in France does a football club's victory spark riots.""Only in France does everyone feel compelled to lock themselves in their homes on the evening of a victory to avoid being confronted with violence," she said.Players are due to take part in a victory parade on Sunday afternoon, which includes touring the Champs de Mars next to the Eiffel Tower and a reception held by French President Emmanuel Macron.Last year, PSG's European championship triumph was marred by clashes that left two people dead, including a 17-year-old boy.AFP via Getty ImagesFlares lit up Avenue des Champs-Élysées on Saturday night.
-
----
-
-## 6. Forging 'ironclad friendships' in an uncertain world
-- Source: chinadaily.com.cn · Topics: China · Date: 2026-05-31
-- URL (reference only): https://www.chinadaily.com.cn/a/202605/31/WS6a1b6ecda310d6866eb4b9cb.html
-
-BEIJING - The overlapping visits last week of Pakistani Prime Minister Shehbaz Sharif and Serbian President Aleksandar Vucic to China shone a spotlight on a phrase frequently used to describe Beijing's relations with both nations -- "ironclad friendship."
-As a constant refrain throughout the visits, the phrase dominated media coverage and public discussion, underscoring the exceptional depth and resilience that define China's ties with Pakistan and Serbia.
-FORGED THROUGH TRIALS
-Describing his first state visit to China as the most important trip of his political career, President Vucic is no stranger to the Chinese public. Over the years, his frequent attendance at major events in Beijing has made him a familiar figure, while the phrase "ironclad friendship" has also become a permanent fixture of his dialogues with Chinese President Xi Jinping, whether in person or by phone.
-During talks with Vucic on Monday, Xi said, "The China-Serbia ironclad friendship is unique, and underpinned by deep historical logic and a strong practical foundation."
-Such a strong friendship was strengthened by the valuable experiences and development practices Serbia shared with China during the early years of its reform and opening-up in the 1970s.
-From the devastating Wenchuan earthquake in China's Sichuan in 2008 to the severe Serbian floods of 2014, the two peoples have consistently stood shoulder-to-shoulder, offering immediate solidarity in times of hardship.
-Xi said the Chinese and Serbian nations have both experienced sufferings and glories, and forged a persevering and tenacious character.
-Amid warm applause at the Great Hall of the People in Beijing on Monday evening, Xi presented Vucic with the Friendship Medal, China's highest honorary medal bestowed on foreign nationals. At the ceremony, Xi said the friendship between China and Serbia, tempered through blood and fire, has proven even more precious amid the fast-changing international landscape.
-Describing himself as "very proud, very dignified, and almost moved to tears" upon receiving the honor, Vucic later told reporters that the medal carries a profound responsibility to work harder to foster deeper bonds between the two nations.
-China and Serbia have rendered each other firm support on issues concerning their respective core interests and major concerns.
-On the Taiwan question, Vucic has repeatedly reaffirmed Serbia's unequivocal position. "Taiwan is an internal Chinese issue. It belongs to China in accordance with the UN Charter, full stop," he said in an interview with a Chinese media outlet during his visit, reaffirming Serbia's adherence to the one-China principle.
-China's "ironclad friendship" with Pakistan is also rooted in decades of mutual trust, steadfast support and common development.
-Since the establishment of diplomatic relations 75 years ago, China and Pakistan have forged an unbreakable traditional friendship, Xi said during talks with Sharif on Monday, noting that the strategic mutual trust and practical cooperation between the two sides have strongly promoted the development of both nations.
-From Pakistan becoming one of the first nations to recognize the People's Republic of China and facilitating China's historic rapprochement with the United States, to the engineering feat of the Karakoram Highway across towering mountains and the evolution of the China-Pakistan Economic Corridor (CPEC) into a flagship project of the Belt and Road Initiative, bilateral ties have steadily deepened across generations.
-Sharif said the two countries' ironclad friendship is "growing ever stronger and next to none."
-"Pakistan will always be China's good friend and good partner," he said.
-MUTUAL RESPECT FOR SHARED DEVELOPMENT
-During Vucic's visit, China and Serbia signed more than 20 cooperation documents covering political relations, economy and trade, science and technology, education, legal affairs and culture.
-Vucic said that the signing of these agreements represents much more than diplomacy for Serbia. "They are a confirmation of sincere friendship, mutual respect, and trust that we have built and kept for years," he wrote on social media.
-Over the years, economic collaboration between China and Serbia is particularly evident in transformative projects like the Zemun-Borca Bridge, the Hungary-Serbia Railway, and the revitalization of the Smederevo Steel Plant.
-At the same time, China's expanding market access has created new opportunities for Serbian exports. Nearly two years after the China-Serbia Free Trade Agreement entered into force, a growing number of Serbian specialty products, such as wine, honey, beef and lamb, have entered the Chinese market.
-Statistics show that Serbia's exports to China increased from 22 million U.S. dollars in 2013 to 1.9 billion dollars in 2024.
-For China and Pakistan, their leaders recognized at an early stage that relationships built on mutual respect, sovereign equality, and long-term trust often outlast shifting geopolitical circumstances, said Pakistani Ambassador to China Khalil Hashmi.
-Today, China-Pakistan cooperation spans multiple dimensions: connectivity that creates opportunity, innovation that drives transformation, and institutions that sustain long-term partnership.
-Therefore, the flagship CPEC should be understood not merely as a collection of infrastructure projects or energy investments, but as one phase within a longer continuum of strategic cooperation, Hashmi said.
-Moreover, China has consistently championed equity and justice, and remains committed to friendly cooperation with other countries.
-"China, as a major country, has always treated smaller countries with equality and respect, and abided by international law, setting a good example for the world," Vucic said.
-UPHOLDING FAIRNESS AND JUSTICE
-The significance of such ironclad friendships extends beyond bilateral relations, as reflected in the broad consensus China, Pakistan and Serbia share on major international and regional issues.
-Re…
+BEIJING, May 30 -- Chinese President Xi Jinping on Saturday exchanged congratulations with Egyptian President Abdel-Fattah al-Sisi on the 70th anniversary of diplomatic ties between the two countries.
+Xi said that Egypt was the first Arab and African country to establish diplomatic relations with the People's Republic of China.
+Over the past 70 years, no matter how the international and regional landscapes have evolved, the two countries have always respected each other, treated each other as equals, placed mutual trust in each other and helped each other in times of need, Xi said.
+He said China-Egypt relations have become a model of amity, solidarity and cooperation among developing countries, as well as a benchmark for collective cooperation between China and Arab states and between China and Africa, thereby advancing steadily toward building a China-Egypt community with a shared future in the new era.
+As two ancient civilizations and important members of the Global South, Xi said, China and Egypt should draw wisdom and strength from history, strive to accomplish the historical missions of pursuing peace, development, cooperation and upholding justice so as to inject strong impetus into building a community with a shared future for humanity.
+Xi said that he attaches great importance to the development of China-Egypt relations and stands ready to work together with Sisi to take the 70th anniversary of diplomatic ties as a new starting point, carry forward the traditional friendship, strengthen exchanges and cooperation in various fields, and push for the growth of China-Egypt relations featuring greater strategic guidance, stronger synergy for development and broader international influence, so as to deliver more benefits to the two peoples and make greater contributions to peace and development in the region and beyond.
+For his part, Sisi said that Egypt and China have stood shoulder to shoulder through various historical periods and under the joint guidance of the leaders of the two countries over the past 70 years, Egypt-China relations have sustained steady growth.
+Applauding the important achievements in Egypt-China relations, Sisi voiced hope of working with Xi to push for further progress in bilateral ties, and jointly build a more stable multipolar world with greater capacity to address global challenges, so as to enable all countries to share the fruits of comprehensive development and jointly realize peace and security.
+Also on Saturday, Chinese Premier Li Qiang and his Egyptian counterpart Mostafa Madbouly exchanged congratulations.
+Li voiced China's willingness to work with Egypt to follow through on the important consensus reached by the two heads of state, accelerate high-quality Belt and Road cooperation, enhance exchanges and cooperation across various fields and work for steady growth of the China-Egypt comprehensive strategic partnership so as to deliver more benefits to the two peoples.
+For his part, Madbouly said that over the past 70 years, Egypt-China relations have made remarkable progress and bilateral cooperation has achieved unprecedented results.
+Egypt looks forward to further strengthening cooperation with China and making steady headway in such fields as economy, science and technology so as to deliver benefits to the two friendly countries and the two peoples.
 
 ---
 
-## 7. Cuba’s blackouts leave high-rise residents with constant uncertainty
-- Source: bbc.com · Topics: world, news · Date: 2026-05-31
-- URL (reference only): https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss
+## 4. Former M&S Chief Executive hired to spearhead Government drive to help young people into work
+- Source: gov.uk · Topics: UK, government · Date: 2026-05-30
+- URL (reference only): https://www.gov.uk/government/news/former-ms-chief-executive-hired-to-spearhead-government-drive-to-help-young-people-into-work
 
-As Cuba heads into another month of blackouts due to the near-total fuel blockade imposed by the US, many say their lives now revolve around these power outages.For Ana Rosa Romero, a 70-year-old widow living in a high-rise building, the constant power cuts have transformed her daily life.BBC's Will Grant spoke to her about the impact of the blackouts.Video edited by Blanca Estrada
+Marc Bolland appointed Lead Non-Executive Director at DWP, tasked with convening business leaders to help address the number of young people not in education, employment or training (NEET).
+    Bolland – whose charity Movement to Work has helped over 200,000 unemployed young people into work – will help drive delivery of the Government’s Youth Guarantee to ensure every young person can earn or learn.
+    Appointment confirmed after interim findings of the Government-commissioned Alan Milburn review which set out the scale and complexity of the youth unemployment crisis.
+  
+
+
+Former Marks & Spencer Chief Executive Marc Bolland has been tasked with convening CEOs across sectors to help implement Youth Guarantee reforms, bringing the voice of businesses into policy delivery. This will help create opportunity for young people and tackle the crisis of one million not in employment, education or training (NEET).
+
+As well as leading major companies including Marks & Spencer, Morrisons supermarkets and Heineken, Marc is founder chairman of the charity Movement to Work, which working with the DWP has helped over 200,000 unemployed young people into work.
+
+In his new role as Lead Non-Executive Director at the Department for Work and Pensions (DWP), Marc will convene leading Chief Executives across sectors to help expand opportunity, create clear routes into work and tackle the long-standing challenge of youth unemployment.
+
+He will also advise Work and Pensions Secretary Pat McFadden on the Government’s response to the Alan Milburn Review, which has just released its interim report. In this role he will be asked to place partnership with business and the third sector at the heart of the Government’s approach.
+
+Work and Pensions Secretary Pat McFadden said:
+
+
+  The number of young people not in education, employment or training is a serious challenge that has been allowed to persist for too long. That is why I asked Alan Milburn to look hard at the underlying causes and what it will take to fix them.
+
+  Marc Bolland’s appointment sends a clear signal that we are serious about tackling that challenge. His track record in business and through Movement to Work make him uniquely placed to bring employers together and open up real opportunities for young people who need them most.
+
+  I’ve also commissioned senior officials in my department to look at how we go even further in the support we provide young people – particularly young people with health conditions. And I’ve asked that that be done together with employers, charities, disabled people’s organisations and young people themselves.
+
+
+Marc’s role will:
+
+
+  Turbo-charge delivery of the Government’s Youth Guarantee, helping ensure 1 million young people, including those with a disability or health condition, have access to employment, training or education – backed by £2.5 billion investment.
+  Convene employers to business support for youth employment, alongside disabled people’s organisations, charities and young people
+  Advise the Secretary of State on the Government’s response to the Milburn review - putting partnership with business and the third sector and disabled people’s organisations at the heart of Government’s response.
+
+
+Marc Bolland said:
+
+
+  As founder and chairman of Movement to Work we have, in close cooperation with DWP, brought over 200,000 NEETs into work and I am honoured and passionate to join the DWP now.
+
+  I believe the Government is serious about tackling this generational crisis of youth unemployment, and I know that working hand in hand with business to support young people gives them the best possible chance of success.
+
+
+Marc brings experience at the most senior levels of business, having served as Chief Executive of Marks & Spencer plc, Chief Executive of Morrisons supermarkets, and Chief Operating Officer at Heineken.
+
+He also brings a deep passion for improving young people’s lives through work, as demonstrated in his role as founding chairman of Movement to Work, a charity that offers free support to businesses to create youth employability programmes. The organisation has so far delivered more than 200,000 opportunities for 16 to 30-year-olds facing barriers to work.
+
+Marc will help bring business into solving this national crisis – with some employers already stepping in to be part of the solution.
+
+Severn Trent is the latest major employer to back the Government’s Youth Guarantee, which aims to give every young person the chance to earn or learn. Other supporters include the Premier League, Channel 4, Royal Shakespeare Company and Pinewood Studios.
+
+The Government has commissioned Alan Milburn to look into the root causes of youth inactivity and identify what more can be done to support young people into work and learning. Last week, Alan Milburn published his interim findings which highlighted calls for a system reset to support more young people into work.
+
+The report found that, without urgent action, the number of young people who are NEET - not in education, employment, or training - will rise from 1-in-8 to 1-in-6 young people within five years, representing 1.25 million young lives.
+
+The government is prioritising early intervention, ensuring young people are supported before they reach crisis point, identifying and supporting children with Special Educational Needs and Disabilities (SEND), speech delays, and behavioural risks as early as possible to improve long-term outcomes.
+
+Marc is the latest major figure from the world of business brought in by the department to utilise their extensive experience and expertise. Last year, former John Lewis boss Sir Charlie Mayfield was asked to lead the Keep Britain Working Review which, with the support of employers, has been looking at ways to help people return to or stay in work.
+
+Additional information
+
+
+  
+    Marc Bolland is founder chairman of Movement to Work, a registered charity offering free support to businesses to create youth employability programmes…
 
 ---
 
-## 8. Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump
-- Source: theguardian.com · Topics: world, news · Date: 2026-05-30
-- URL (reference only): https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump
+## 5. Borrowed boots, borrowed joy: Football thrives in Gaza camps
+- Source: news.un.org · Topics: UN, world · Date: 2026-05-30
+- URL (reference only): https://news.un.org/en/story/2026/05/1167606
 
-On a graffitied Sarajevo backstreet, a path leads past an overgrown patch of garden to a white door. Beyond is the registered office of a company that is on the brink of winning contracts worth more than $1bn.AAFS Infrastructure and Energy is close to securing a concession to build and operate a pipeline across the Balkans to allow fossil gas shipped from the US to replace supplies that come from Russia. “This could be the most important infrastructure project ever in Bosnia and Herzegovina,” says one of the country’s top officials, who, like others, asks to remain anonymous to discuss sensitive negotiations.The company has no record of even attempting anything close to this scale. What it does have is personal connections to Donald Trump.One of AAFS’s representatives is a Washington lawyer who has acted for the Trumps in political cases. The other is the brother of the president’s former national security adviser. Both were part of a campaign that is close to Trump’s heart: the effort to overturn his defeat in the 2020 presidential election.A Guardian investigation, based on interviews with current and former Bosnian and US officials, leaked documents and corporate paperwork, has examined the obscure company that has been thrust into the global struggle for energy supremacy. It offers a glimpse of how international relations are changing under a presidency that blurs the line between government policy and the enrichment of the ruling family and those around it.“There is a logic, in our current world, of having administration-connected people involved in big economic projects or investments,” says a former senior US official in the region. “It is unsavoury but so much of my country’s politics is unsavoury these days.”(From left) Jesse Binnall, John Ginkel, chargé d’affaires at the US embassy in Bosnia and Herzegovina; and Joe Flynn in Sarajevo in January. Photograph: XIn the former Yugoslavia, the stakes are higher than just who might get rich. US intervention could undermine the peace deal it brokered in 1995 to end a war that killed 100,000, many of them Muslim Bosniak civilians massacred by Serb paramilitaries. A generation on, Bosnia’s ethnic leaders are still manoeuvring for advantage.US officials have left Bosnia’s leaders in no doubt about what the Trump administration wants: the go-ahead for AAFS’s pipeline.AAFS’s Maga connectionsWhen the Guardian knocks at AAFS’s Sarajevo address, a woman calls down from an upstairs window that its local representative will be back soon. Amer Bekan arrives a few minutes later. A large middle-aged man, he says AAFS’s office will be moving to a big building with 100 employees.MapBekan’s online CV calls him an “investor and entrepreneur with extensive experience”. He has tried politics as well. After coming last with 116 votes in a 2016 run for mayor in central Sarajevo, another campaign in 2020 led to him being accused of abusing the elections for personal gain, an allegation he denied.Bekan registered a Bosnian company called AAFS in 2021. It was only after he brought in his American partners last year that it hit the big time. Neither he nor they will say how they were introduced.Bekan’s AAFS is now owned by a US company of the same name that was registered in November. Located in a tourist district by the Potomac River, the address AAFS gives for its Washington office sits between a Lebanese restaurant and an Irish pub. A sign identifies it as the premises of Binnall Law Group.Jesse Binnall is a leading lawyer fighting the Maga cause. He was an aide to the 2016 campaign that carried Trump to the White House. In 2020, he was a leading voice undermining Joe Biden’s victory. He declared: “Donald Trump won … after you account for the fraud and irregularities that occurred.” He defended Trump and his oldest son, Donald Trump Jr, against a lawsuit that sought to hold them responsible when rioters tried to overturn the result by storming the Capitol building.One of AAFS’s representatives is a Washington lawyer, Jesse Binnall, who has acted for the Trumps in political cases. Photograph: Greg Nash/UPI/ShutterstockSince Trump’s return to power last year, Binnall has secured a $1.25m settlement from the justice department for Michael Flynn, who was briefly national security adviser in the president’s first term. Despite having admitted lying to the FBI about covert contacts with Russia, Flynn alleged wrongful prosecution.Binnall also came to know Flynn’s brother Joe, a healthcare entrepreneur. They were fellow campaigners in the effort to discredit Biden’s victory. Flynn served as president of one of the movement’s best-funded vehicles, the America Project. And he was an adviser to Trump’s 2020 and 2024 presidential campaigns.The White House referred questions to the state department, which said: “The Southern Interconnection gas pipeline, which has been a [US government] priority for the past three administrations, will expand and diversify Bosnia and Herzegovina’s energy sector, giving BiH greater control over its energy supply by providing access to market-based natural gas and reducing dependence on a single, unreliable source.”Flynn and Binnall’s qualifications for a Balkans infrastructure venture are not immediately apparent. But since they joined, the project has enjoyed the full-throated support of the Trump administration.The address AAFS gives for its Washington office sits between a Lebanese restaurant and an Irish pub and a sign identifies it as the premises of Binnall Law Group. Photograph: Joseph Gedeon/The GuardianNo competitive tender processBinnall, Flynn and Bekan’s initial discussions with Bosnian officials last autumn were about a $300m renovation of two airports. Then the Bosnian officials suggested they take on a much more significant project: the Southern Interconnection pipeline.The US has long supported the plan to connect Bosnia to a gas terminal on Croatia’s coast, which would reduce Vladimir Putin’s influence in southern Europe…
+Borrowed boots, borrowed joy: Football thrives in Gaza camps
+
+
+
+    
+  In the Al-Mawasi area west of Khan Younis, where tents stretch across the sand and snaking queues form for water and food, Asaad Al-Azzabi prepares for a match a world away from what he once knew.Before the war, Mr. Al-Azzabi played for Al-Tajammu Club in Rafah, where he and his teammates had access to pitches, training halls, coaches and equipment. 
+
+
+
+
+  
+    
+  
+
+              
+                  UN News
+                          Asaad Al-Azzabi's torn boots.
+              
+      
+    
+
+
+
+Borrowed bootsNow, he’s lucky if he can find boots to play in. “Sometimes I borrow a pair from a friend or patch them up with tape,” he says.His home is now a tent in Al-Rahma Camp, a shelter for people displaced from Rafah, where access to clean water and sanitation services is scarce. He lives alone, after his wife left for Jordan with their son, who has cancer, to seek treatment.According to UN data, around 1.7 million people are living in around 1,600 displacement sites across the Gaza Strip, most of them in temporary or informal locations. Most residents rely on water brought in by truck and are forced to cope with restrictions on the entry of equipment, fuel and repair materials.Amid the struggle to meet basic needs, Mr. Al-Azzabi is preparing for the match with nearby Sheikh Al-Eid Camp. He explains the game plan to his players by drawing on the sand, before the team sets off on foot toward a pitch located among the tents of displaced people. The match appears to be more than a sporting activity – it is a respite from the daily hardships of life in the camps. Children and young men gather around the sandy pitch, applauding players, some of whom arrived after spending hours standing in queues for food, water or battery charging.
+
+
+
+
+  
+    
+  
+
+              
+                  UN News
+                          Displaced people from Rafah watching the match between Al-Rahma Camp and Sheikh Al-Eid Camp.
+              
+      
+    
+
+
+
+Something out of nothingReferee Alaa Abu Taha, a referee with the Palestinian Football Association and a displaced resident of Rafah, says football has become the “only outlet” for many people in Gaza.“With the most limited resources, we try to play. Now there is no sports infrastructure. The pitch we are standing on now was originally prepared for basketball and volleyball, but our people create everything out of nothing,” he says.Gaza’s sports sector has suffered widespread destruction since the outbreak of the war. According to the Palestinian Football Association, hundreds of athletes have been killed, including many footballers, while hundreds of sports facilities have been damaged or destroyed, including pitches, club headquarters and training halls. In Al-Mawasi these losses have not prevented players from organising a championship between displacement camps. The big matchThe match kicks off in front of a small crowd of displaced spectators, with Mr. Al-Azzabi taking part in boots held together by plastic tape. At the end of the match, Al-Rahma Camp defeats Sheikh Al-Eid Camp 2–1.
+
+
+
+
+  
+    
+  
+
+              
+                  UN News
+                          Asaad Al-Azzabi celebrating with the crowd of young men and children.
+              
+      
+    
+
+
+
+After the final whistle, young men from the camp lift him and his teammates onto their shoulders, while children and young people celebrate among the tents. For a few brief moments, the sound of displacement recedes from the scene, and football emerges as a rare space for joy.“Under these difficult circumstances, to be able to come out and play a match like this is a very good thing,” says Mr. Al-Azzabi. “Congratulations to our camp. I dedicate this championship to my wife and son in Jordan, and I wish my son a speedy recovery.”For him, the game is more than a sporting victory. It is a message to his distant family and an attempt to preserve what remains of his life as a former player, chasing the ball as if it were the last thing connecting him to who he was before the war.
+
+---
+
+## 6. World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates
+- Source: news.un.org · Topics: UN, world · Date: 2026-05-29
+- URL (reference only): https://news.un.org/en/story/2026/05/1167609
+
+World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates
+
+
+
+    
+  According to Romanian authorities, the Russian drone entered Romanian airspace before crashing into the roof of an apartment building, sparking a fire on the 10th floor.The incident marks the first time since the start of the war in Ukraine that a Russian drone has struck a residential building inside a NATO Member State, although multiple drones have reportedly strayed into Romanian airspace on previous occasions since the invasion began in 2022.“We strongly condemn any attacks against civilians and civilian infrastructure, wherever they occur” said UN Spokesperson Stéphane Dujarric, speaking to reporters at the regular noon briefing in New York.Romania’s responseRomania has called the incident a serious violation of international law and urged NATO defence pact members to accelerate the transfer of anti-drone capabilities to strengthen its defences.In response, NATO condemned what it described as Russia’s recklessness and pledged to continue bolstering its defences against emerging threats.Russia has neither confirmed or denied responsibility for the drone, reportedly saying that an “examination” of the aircraft needs to be conducted.
+
+
+
+
+Escalating violence in Lebanon puts lives and historic sites at riskThe UN Humanitarian Coordinator for Lebanon on Friday expressed deep alarm at the intensifying hostilities between Hezbollah militants and Israeli forces which have led to an “appalling escalation of violence, displacement and human loss.”In a statement, Imran Riza said countless families are being forced to make “impossible choices” in seeking safety.“The human costs are immense. According to the Ministry of Public Health, at least 31 people including women and children were killed and 40 injured in hostilities on 26 May alone,” he added.Meanwhile, the UN culture agency UNESCO has raised alarm over damage to some of Lebanon’s most significant national landmarks as hostilities continue to escalate across the country.Verified damage has been reported at Chama’ Citadel, while strikes were reported near Beaufort Castle – sites protected under international law.UNESCO also expressed concern for the ancient city of Tyre, a UNESCO World Heritage Site, warning that ongoing violence could lead to further destruction and looting.The agency stressed that attacks on cultural heritage not only damage irreplaceable history but also deprive communities of shared spaces vital for recovery and social cohesion.Military activity intensifiesThe UN peacekeeping mission in southern Lebanon, UNIFIL, continues to report intense military activity. Humanitarian operations are also facing challenges, with strikes damaging key roads used for medical evacuations and aid deliveries.Repeated evacuation orders have forced many families to flee their homes multiple times, while aid officials warn that civilians remain at increasing risk.Since fighting intensified in March, the UN World Food Programme (WFP) and its partners have distributed more than 11 million meals to people affected by the conflict.Marking the International Day of UN Peacekeepers, UNIFIL paid tribute to six peacekeepers killed in the recent hostilities, while mission head Major General Diodato Abagnara reiterated that diplomacy remains the only path toward a lasting ceasefire.
+
+
+
+
+WFP scales up emergency response in Akobo as catastrophic hunger and malnutrition deepenTurning to South Sudan finally, where the WFP has scaled up its emergency response in Akobo East, delivering vital food and nutrition assistance to hundreds of thousands of people facing catastrophic hunger and malnutrition.The move follows an uptick in violence in early March which displaced approximately 142,000 people from Akobo County and surrounding areas.“Our hope is to continue to reach people in need. Sustained safety and security of humanitarians and humanitarian cargo is therefore crucial,” said Mutinta Chimuka, WFP Country Director for South Sudan.According to the latest global famine alert system update from the IPC – see our UN News explainer here – parts of Akobo County are experiencing “catastrophic” levels of hunger with one of four counties at risk of famine if conditions deteriorate.Food shortageMeanwhile, severe malnutrition among children under five and breastfeeding mothers is rising sharply.Since launching its emergency response three weeks ago, WFP has reached more than 60,000 people in Akobo, including 15,000 with emergency food assistance, despite insecurity, damaged infrastructure and seasonal rains.A 33-truck aid convoy carrying food, nutrition supplies and relief items is expected to arrive this week and may be the last road delivery before heavy rains cut off access.WFP plans to continue operations through air deliveries, with more than 60 humanitarian flights already supporting the response.
+
+---
+
+## 7. Powering America’s Future: President Trump’s Policies Fuel Demand for Skilled American Workers
+- Source: whitehouse.gov · Topics: US, government · Date: 2026-05-27
+- URL (reference only): https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/
+
+As President Donald J. Trump’s America First agenda fuels a blue-collar resurgence, American workers are back in demand — and a new generation is answering the call.
+
+
+
+The Shift Is Already Underway
+
+
+
+A seismic shift from years past towards the trades is a clear sign that President Trump’s relentless push to restore the dignity of American labor is taking hold.
+
+
+
+
+60% of Gen Z Americans plan to pursue skilled trade work this year, up from less than 40% just one year ago.
+
+
+
+Half of Gen Z college graduates are also pivoting to trades, signaling the end of the failed “college-for-all” experiment.
+
+
+
+Median pay in skilled trades now matches or exceeds many four-year degrees, with trade workers enjoying greater employment stability than their white-collar peers for the first time in history.
+
+
+
+Meanwhile, 94% of U.S. contractors report labor shortages, driving wages higher.
+
+
+
+
+The Trump Administration Is Driving the Boom
+
+
+
+President Trump’s policies have overhauled workforce training and created clear pathways to high-paying careers without crushing debt.
+
+
+
+
+President Trump set a national goal of over one million new registered apprentices and reformed broken federal programs.
+
+
+
+The Working Families Tax Cuts Act expanded 529 savings plans to trade certifications, broadened Pell Grants for skilled trades, delivered 100% bonus depreciation for equipment, and eliminated taxes on overtime — putting thousands of dollars back in workers’ pockets.
+
+
+
+The Department of Education launched the first-ever Workforce Pell Grant program to fast-track Americans into high-demand, high-paying careers.
+
+
+
+The Department of Labor has awarded over $229 million in grants to expand apprenticeships in critical sectors like shipbuilding, defense, and nuclear energy, and launched a landmark initiative to integrate AI skills into registered apprenticeships to prepare the workforce for the jobs of the future.
+
+
+
+New guidance bars illegal aliens from taxpayer-funded workforce programs, ensuring benefits go to American workers.
+
+
+
+These reforms build on President Trump’s first-term launch of apprenticeship.gov, a government site that connects job seekers, employers, and trainers nationwide.
+
+
+
+
+A Workforce Ready to Rebuild America
+
+
+
+With factories and supply chains returning under Trump’s tariff and reshoring policies, demand for skilled labor is surging.
+
+
+
+
+Hundreds of thousands of annual openings projected for construction workers and electricians alone — with recent jobs data reinforcing the demand.
+
+
+
+Bureau of Labor Statistics forecasts 9% growth for electricians and more than double the national average for HVAC technicians over the next decade.
+
+
+
+As President Trump’s trade policies drive factories and critical supply chains back to America, the demand for skilled trades workers is set to surge.
+
+
+
+Since President Trump took office, private industry has responded, with major commitments from the nation’s most recognizable brands — including Google, Amazon, Apple, Meta, Home Depot, Lowe’s, BlackRock, and Carrier Global — to fund new apprenticeship, training, and education programs.
+
+
+
+
+America is rebuilding — by Americans, for Americans. Under President Trump’s leadership, a new generation of skilled workers is rising to power a new Golden Age of American manufacturing and prosperity.
+
+---
+
+## 8. Trump Administration’s Full-Scale War on Fraud
+- Source: whitehouse.gov · Topics: US, government · Date: 2026-05-26
+- URL (reference only): https://www.whitehouse.gov/releases/2026/05/trump-administrations-full-scale-war-on-fraud/
+
+President Donald J. Trump and Vice President JD Vance are unleashing an unrelenting, full-scale assault on the fraudsters, scammers, and corrupt operators who have looted billions from American taxpayers. The White House Task Force to Eliminate Fraud is moving at unprecedented speed and ferocity to root out the waste, abuse, and criminal exploitation of government programs that have drained billions from hardworking taxpayers.
+
+
+
+This is a direct offensive against every fraudulent scheme preying on hardworking Americans — and the results are already staggering.
+
+
+
+Here are some of the Task Force’s key actions and victories to date:
+
+
+
+
+February 25, 2026: The Trump Administration halted nearly $260 million in Medicaid payments to Minnesota over rampant fraud allegations, demanding full cooperation with federal investigators.
+
+
+
+March 19, 2026: Federal prosecutors charged 11 individuals in a major real estate and loan fraud ring preying on elderly Americans in California.
+
+
+
+March 25, 2026: The Trump Administration suspended dozens of high-risk hospice and home health providers in the Los Angeles area.
+
+
+
+March 30, 2026: The Trump Administration launched a new national fraud whistleblower program to empower Americans to expose waste and abuse.
+
+
+
+April 2, 2026: The Trump Administration suspended hundreds additional high-risk hospice and home health providers across California.
+
+
+
+April 3, 2026: Federal prosecutors charged more than a dozen individuals in a $50 million hospice fraud scheme.
+
+
+
+April 7, 2026: The Department of Justice secured a guilty plea from a California fraudster accused of submitting $270 million in false reimbursement claims.
+
+
+
+April 8, 2026: The Department of Justice confirmed it has 8,000 active, ongoing fraud cases.
+
+
+
+April 8, 2026: The Task Force uncovered $6.3 billion in suspected fraudulent government contracts and immediately launched a sweeping investigation.
+
+
+
+April 15, 2026: The Trump Administration suspended 447 hospices and 23 home health agencies in Los Angeles, with estimated fraud exceeding $600 million.
+
+
+
+April 16, 2026: The Trump Administration served criminal warrants and administrative charges on 20 Minnesota businesses suspected of SNAP fraud.
+
+
+
+April 17, 2026: The Department of Justice announced its newly established National Fraud Enforcement Division took enforcement action in schemes totaling over $340 million in its first week alone.
+
+
+
+April 24, 2026: The Small Business Administration referred 562,000 fraudulent or delinquent pandemic-era loans — totaling $22 billion — for aggressive collection.
+
+
+
+April 28, 2026: The Department of Justice conducted targeted enforcement operations at nearly two dozen Minnesota childcare centers suspected of systemic fraud.
+
+
+
+April 30, 2026: The Department of Justice launched a West Coast Strike Force team targeting healthcare fraud across Arizona, Nevada, and northern California.
+
+
+
+April 30, 2026: The Trump Administration deferred an additional $91 million in federal Medicaid funds from non-cooperating Minnesota.
+
+
+
+May 12, 2026: The Trump Administration identified over 10,000 suspected fraud cases in immigration student work programs.
+
+
+
+May 13, 2026: The Trump Administration suspended $1.4 billion in home health and hospice funding nationwide.
+
+
+
+May 13, 2026: The Trump Administration deferred $1.3 billion in federal Medicaid reimbursements for California.
+
+
+
+May 13, 2026: The Trump Administration halted all new Medicare enrollments for hospice providers nationwide until the fraud crisis is brought under control.
+
+
+
+May 13, 2026: The Trump Administration launched audits of Medicaid Fraud Control Units in all 50 states.
+
+
+
+May 13, 2026: The Trump Administration blocked $60 million in fraudulent student loan applications in just the first month since deploying enhanced screening.
+
+
+
+May 20, 2026: The Department of Justice charged a Minneapolis daycare owner featured in Nick Shirley’s viral video.
+
+
+
+May 21, 2026: The Department of Justice expanded its Health Care Fraud Strike Force program, adding additional prosecutors to combat Medicaid fraud nationwide.
+
+
+
+May 21, 2026: The Department of Justice charged 15 individuals in a wide-ranging Minnesota healthcare fraud scheme — including the highest loss amount ever charged in a Medicaid case in the state and the largest autism fraud scheme ever prosecuted.
+
+
+
+
+This is only the beginning. The Trump Administration will continue this relentless effort until every scheme is exposed, every dollar possible is recovered, and the American people’s trust in their government is restored.

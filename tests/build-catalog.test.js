@@ -79,6 +79,18 @@ test('buildCatalog writes DIGEST.md with inline full text', async () => {
   await rm(root, { recursive: true });
 });
 
+test('selectWithSourceCap limits total articles per source when maxPerSourceTotal set', () => {
+  const articles = [
+    { id: '1', date: '2026-05-31', source: 'gov.uk', type: 'full-text' },
+    { id: '2', date: '2026-05-30', source: 'gov.uk', type: 'full-text' },
+    { id: '3', date: '2026-05-29', source: 'gov.uk', type: 'full-text' },
+    { id: '4', date: '2026-05-31', source: 'news.un.org', type: 'full-text' },
+  ];
+  const picked = selectWithSourceCap(articles, { limit: 8, maxPerSourcePerDay: 99, maxPerSourceTotal: 2 });
+  assert.equal(picked.filter(a => a.source === 'gov.uk').length, 2);
+  assert.equal(picked.length, 3);
+});
+
 test('selectWithSourceCap prefers full-text only when requested', async () => {
   const articles = [
     { id: '1', date: '2026-05-25', source: 'a.com', type: 'link-only' },
