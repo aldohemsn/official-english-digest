@@ -8,13 +8,24 @@
     "fetch": "node scripts/fetch.js",
     "build": "node scripts/build-catalog.js",
     "purge": "node scripts/purge-bad-articles.js",
-    "test": "node --test 'tests/**/*.test.js'"
+    "test": "node --test 'tests/**/*.test.js'",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@mozilla/readability": "^0.5.0",
     "cheerio": "^1.0.0",
     "gray-matter": "^4.0.3",
+    "html-to-text": "^9.0.5",
     "jsdom": "^25.0.0",
+    "marked": "^18.0.3",
+    "nodemailer": "^6.9.16",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/html-to-text": "^9.0.4",
+    "@types/node": "^25.9.1",
+    "@types/nodemailer": "^6.4.17",
+    "@vercel/node": "^5.7.13",
+    "typescript": "~5.8.2"
   }
 }

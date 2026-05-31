@@ -1,0 +1,4 @@
+tests/
+.git/
+.cursor/
+*.plan.md
