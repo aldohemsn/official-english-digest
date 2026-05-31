@@ -6,6 +6,7 @@
   "scripts": {
     "fetch": "node scripts/fetch.js",
     "build": "node scripts/build-catalog.js",
+    "purge": "node scripts/purge-bad-articles.js",
     "test": "node --test 'tests/**/*.test.js'"
   },
   "dependencies": {

@@ -4,7 +4,7 @@ import { mkdtemp, mkdir, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { writeArticleFile } from '../scripts/lib/article.js';
-import { buildCatalog } from '../scripts/build-catalog.js';
+import { buildCatalog, selectWithSourceCap } from '../scripts/build-catalog.js';
 
 async function setup() {
   const root = await mkdtemp(join(tmpdir(), 'cat-'));
@@ -15,13 +15,13 @@ async function setup() {
 test('buildCatalog produces catalog.json with all articles', async () => {
   const root = await setup();
   await writeArticleFile(join(root, 'articles'), {
-    id: '2026-05-25-first', title: 'First', source: 'BBC',
+    id: '2026-05-25-first', title: 'First', source: 'bbc.com',
     url: 'https://bbc.com/1', date: '2026-05-25', topics: ['world'], type: 'full-text',
-  }, 'Body.');
+  }, 'Body one two three four five six seven eight nine ten eleven twelve.');
   await writeArticleFile(join(root, 'articles'), {
-    id: '2026-05-24-second', title: 'Second', source: 'Reuters',
-    url: 'https://reuters.com/2', date: '2026-05-24', topics: ['tech'], type: 'link-only',
-  }, '');
+    id: '2026-05-24-second', title: 'Second', source: 'theguardian.com',
+    url: 'https://theguardian.com/2', date: '2026-05-24', topics: ['tech'], type: 'full-text',
+  }, 'Body two three four five six seven eight nine ten eleven twelve thirteen.');
 
   const catalog = await buildCatalog(root);
   assert.equal(catalog.v, 1);
@@ -34,11 +34,11 @@ test('buildCatalog produces catalog.json with all articles', async () => {
 test('buildCatalog writes newest articles first in latest.md', async () => {
   const root = await setup();
   await writeArticleFile(join(root, 'articles'), {
-    id: '2026-05-24-older', title: 'Older Article', source: 'BBC',
+    id: '2026-05-24-older', title: 'Older Article', source: 'bbc.com',
     url: 'https://bbc.com/older', date: '2026-05-24', topics: ['world'], type: 'full-text',
   }, 'Body.');
   await writeArticleFile(join(root, 'articles'), {
-    id: '2026-05-25-newer', title: 'Newer Article', source: 'BBC',
+    id: '2026-05-25-newer', title: 'Newer Article', source: 'bbc.com',
     url: 'https://bbc.com/newer', date: '2026-05-25', topics: ['world'], type: 'full-text',
   }, 'Body.');
 
@@ -48,23 +48,52 @@ test('buildCatalog writes newest articles first in latest.md', async () => {
   await rm(root, { recursive: true });
 });
 
-test('buildCatalog writes links.md with link-only articles', async () => {
+test('buildCatalog caps articles per source per day in latest.md', async () => {
   const root = await setup();
+  for (let i = 0; i < 4; i++) {
+    await writeArticleFile(join(root, 'articles'), {
+      id: `2026-05-25-bbc-${i}`, title: `BBC ${i}`, source: 'bbc.com',
+      url: `https://bbc.com/${i}`, date: '2026-05-25', topics: ['world'], type: 'full-text',
+    }, 'Body text long enough for full text.');
+  }
+  await buildCatalog(root);
+  const latest = await readFile(join(root, 'latest.md'), 'utf8');
+  const lines = latest.split('\n').filter(l => l.startsWith('- ['));
+  assert.equal(lines.length, 2);
+  await rm(root, { recursive: true });
+});
+
+test('buildCatalog writes DIGEST.md with inline full text', async () => {
+  const root = await setup();
+  const body = 'Digest body text that is long enough to appear in the daily reading digest output file.';
   await writeArticleFile(join(root, 'articles'), {
-    id: '2026-05-25-link', title: 'Link Only', source: 'Reuters',
-    url: 'https://reuters.com/link', date: '2026-05-25', topics: ['tech'], type: 'link-only',
-  }, '');
+    id: '2026-05-25-digest', title: 'Digest Article', source: 'techcrunch.com',
+    url: 'https://techcrunch.com/d', date: '2026-05-25', topics: ['AI'], type: 'full-text',
+  }, body);
 
   await buildCatalog(root);
-  const links = await readFile(join(root, 'links.md'), 'utf8');
-  assert.ok(links.includes('Link Only'));
-  assert.ok(links.includes('https://reuters.com/link'));
+  const digest = await readFile(join(root, 'DIGEST.md'), 'utf8');
+  assert.ok(digest.includes('# Daily Reading Digest'));
+  assert.ok(digest.includes('Digest Article'));
+  assert.ok(digest.includes(body));
   await rm(root, { recursive: true });
+});
+
+test('selectWithSourceCap prefers full-text only when requested', async () => {
+  const articles = [
+    { id: '1', date: '2026-05-25', source: 'a.com', type: 'link-only' },
+    { id: '2', date: '2026-05-25', source: 'b.com', type: 'full-text' },
+  ];
+  const picked = selectWithSourceCap(articles, { limit: 5, fullTextOnly: true });
+  assert.equal(picked.length, 1);
+  assert.equal(picked[0].type, 'full-text');
 });
 
 test('buildCatalog handles empty articles directory', async () => {
   const root = await setup();
   const catalog = await buildCatalog(root);
   assert.equal(catalog.articles.length, 0);
+  const digest = await readFile(join(root, 'DIGEST.md'), 'utf8');
+  assert.ok(digest.includes('No full-text articles'));
   await rm(root, { recursive: true });
 });

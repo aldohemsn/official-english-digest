@@ -1,17 +1,38 @@
 {
   "rss": {
     "maxAgeDays": 2,
+    "maxPerFeed": 15,
     "feeds": [
-      { "url": "https://feeds.bbci.co.uk/news/world/rss.xml",                 "topics": ["world", "news"] },
-      { "url": "https://feeds.bbci.co.uk/news/business/rss.xml",              "topics": ["business", "economy"] },
-      { "url": "https://www.economist.com/finance-and-economics/rss.xml",     "topics": ["economy", "finance"] },
-      { "url": "https://techcrunch.com/feed/",                                "topics": ["technology", "AI"] },
-      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",      "topics": ["world", "US"] },
-      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "topics": ["technology", "US"] },
-      { "url": "https://www.theguardian.com/world/rss",                       "topics": ["world", "news"] },
-      { "url": "https://www.chinadaily.com.cn/rss/world_rss.xml",             "topics": ["China", "world"] },
-      { "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",             "topics": ["China"] }
+      { "url": "https://feeds.bbci.co.uk/news/world/rss.xml",        "topics": ["world", "news"] },
+      { "url": "https://feeds.bbci.co.uk/news/business/rss.xml",     "topics": ["business", "economy"] },
+      { "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",   "topics": ["technology"] },
+      { "url": "https://techcrunch.com/feed/",                       "topics": ["technology", "AI"] },
+      { "url": "https://www.theguardian.com/world/rss",              "topics": ["world", "news"] },
+      { "url": "https://www.theguardian.com/us-news/rss",            "topics": ["US", "politics"] }
     ]
   },
-  "scrape": []
+  "scrape": {
+    "maxAgeDays": 2,
+    "maxPerSource": 8,
+    "targets": [
+      {
+        "name": "ChinaDaily",
+        "domain": "chinadaily.com.cn",
+        "indexUrl": "https://www.chinadaily.com.cn/world",
+        "topics": ["China", "world"]
+      },
+      {
+        "name": "ChinaDaily",
+        "domain": "chinadaily.com.cn",
+        "indexUrl": "https://www.chinadaily.com.cn/china",
+        "topics": ["China"]
+      },
+      {
+        "name": "Xinhua",
+        "domain": "english.news.cn",
+        "indexUrl": "https://english.news.cn/world/index.htm",
+        "topics": ["China", "world"]
+      }
+    ]
+  }
 }

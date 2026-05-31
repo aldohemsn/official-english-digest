@@ -1,0 +1,15 @@
+---
+id: 2026-05-31-who-chief-calls-for-reconsideration-of-travel-bans
+title: >-
+  WHO chief calls for reconsideration of travel bans as DR Congo battles Ebola
+  outbreak
+source: english.news.cn
+url: >-
+  https://english.news.cn/africa/20260531/86d4d652788c4147a0b825cbef7c43b4/c.html
+date: '2026-05-31'
+topics:
+  - China
+  - world
+type: full-text
+---
+World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus is pictured in Bunia, the capital of Ituri Province in the Democratic Republic of the Congo, May 30, 2026. Tedros on Saturday called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo and Uganda to reconsider such measures. (Xinhua)BUNIA, DR Congo, May 30 (Xinhua) -- World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus on Saturday called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda to reconsider such measures.Speaking at a joint press conference in Bunia, the capital of the northeastern Ituri Province and the epicenter of the Ebola outbreak, Tedros said such restrictions could complicate response efforts and risk discouraging transparency and trust, which are essential to saving lives."I call on countries that have imposed travel bans or border closures to reconsider. These measures make the response harder, and they discourage transparency and trust that saves lives," Tedros said.Despite the lack of approved vaccines and specific medicines, the WHO chief said patients could still recover if they receive timely, quality medical care.Tedros said his visit to Bunia was also aimed at engaging directly with affected communities in this outbreak, in which over 1000 suspected cases have been reported.Uganda has also reported nine confirmed cases after detecting two new infections in the capital, Kampala, the Ugandan health ministry said on Friday.DRC Health Minister Roger Kamba said the country aims, "in the best-case scenario," to contain and end the outbreak within "four to six months," based on its experience in responding to epidemics and the known course of the Ebola virus disease.He said the immediate priority is to contain the virus within the three affected provinces -- Ituri, North Kivu and South Kivu -- and prevent further spread.Kamba also highlighted the country's strengthened laboratory testing capacity, with no backlog of samples remaining. Around 900 samples had been tested, of which about 260 were positive, he said, adding that the country now has the capacity to process all incoming samples, even if daily testing rises to 200 or 300 samples. ■World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus (C) arrives in Bunia, the capital of Ituri Province in the Democratic Republic of the Congo, May 30, 2026. Tedros on Saturday called on countries that have imposed travel bans or closed borders in response to the Ebola outbreak in the Democratic Republic of the Congo and Uganda to reconsider such measures. (Xinhua)

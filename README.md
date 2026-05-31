@@ -1,41 +1,53 @@
 # grok-articles
 
-A daily-refreshed reading list for English coaching sessions with Grok.
+A daily-refreshed **full-text** reading list for English coaching — works with Claude, ChatGPT, Gemini, Grok, or any LLM. No connectors or live URL fetching required at chat time.
 
-## Connecting to Grok (one-time)
+## Quick start (any LLM)
 
-1. Grok Settings → Connectors → GitHub → authorize → select this repo
-2. Done — Grok can browse your reading list during any conversation
+1. Open **[DIGEST.md](DIGEST.md)** — 8 recent articles with **full body text inline** (~25 KB)
+2. Upload it to your AI project's knowledge files, or paste it into a new chat
+3. Say: `Pick one article from the digest and start an English coaching session`
 
-> **Note:** The repo must be public (or you must grant the Grok GitHub App access to private repos during OAuth authorization).
+That's it. The LLM reads everything from the file — no GitHub connector, no paywalls, no guessing.
 
-## Using in a session
+## Sources
 
-Start with the "With Connector Active" prompt from the [English coach doc](https://github.com/aldohe/grok-audio/blob/main/docs/superpowers/specs/2026-05-25-grok-english-coach-prompt.md), then try:
+| Category | Outlets | Method |
+|----------|---------|--------|
+| Western media | BBC (world, business, tech), TechCrunch, The Guardian (world, US) | RSS + Readability |
+| Chinese official media (English) | China Daily, Xinhua | Scrape current index pages + Readability |
 
-- `Pick an article from my reading list and let's discuss it`
-- `Find a recent AI article from my reading list`
-- `What's new in my reading list this week?`
+All articles are stored as **full text** in `articles/`. Paywalled sources (NYT, Economist) are excluded because body extraction fails.
 
 ## Repo layout
 
 | Path | Purpose |
-|---|---|
-| `catalog.json` | Machine-readable index — Grok reads this first |
-| `latest.md` | Last 30 articles, newest first |
-| `links.md` | Link-only entries |
-| `articles/` | Full-text articles as Markdown + YAML frontmatter |
-| `config/sources.json` | RSS feeds, NewsAPI topics, scrape targets |
+|------|---------|
+| **`DIGEST.md`** | **Primary LLM entry** — 8 articles, full text inline |
+| `latest.md` | Headlines index, last 30 articles (diverse sources) |
+| `catalog.json` | Machine-readable index of all articles |
+| `articles/` | Full-text Markdown + YAML frontmatter |
+| `config/sources.json` | RSS feeds and scrape targets |
 
 ## Running locally
 
 ```bash
 npm ci
-NEWSAPI_KEY=your_key npm run fetch
-npm run build
+npm run fetch    # pull new articles (RSS + scrape)
+npm run build    # regenerate catalog, latest.md, DIGEST.md
 npm test
 ```
 
-## NewsAPI key setup
+One-time cleanup of stale/paywall placeholder articles:
 
-Get a free key at [newsapi.org](https://newsapi.org), then add it as a GitHub Actions secret named `NEWSAPI_KEY` (repo Settings → Secrets → Actions → New repository secret).
+```bash
+node scripts/purge-bad-articles.js
+```
+
+## GitHub Actions
+
+Runs daily at 06:00 UTC: `fetch` → `build` → commit. No API keys required.
+
+## English coach prompts
+
+See the [English coach spec](https://github.com/aldohe/grok-audio/blob/main/docs/superpowers/specs/2026-05-25-grok-english-coach-prompt.md) for session instructions (platform-agnostic block included).

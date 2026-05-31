@@ -6,9 +6,8 @@ import { join } from 'node:path';
 import { runFetch } from '../scripts/fetch.js';
 
 const EMPTY_CONFIG = {
-  rss: { maxAgeDays: 2, feeds: [] },
-  newsapi: { topics: [], language: 'en', pageSize: 10 },
-  scrape: [],
+  rss: { maxAgeDays: 2, maxPerFeed: 15, feeds: [] },
+  scrape: { maxAgeDays: 2, maxPerSource: 8, targets: [] },
 };
 
 async function makeRoot() {

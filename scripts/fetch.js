@@ -11,9 +11,10 @@ export async function runFetch(config, { apiKey = '', rootDir, fetchFn, _sources
   const seenUrls = await loadSeenFile(seenPath);
   const opts = fetchFn ? { fetchFn } : {};
 
-  const rssSource = _sources?.rss ?? ((feeds, days, seen, dir, o) => fetchRSS(feeds, days, seen, dir, o));
+  const rssSource = _sources?.rss ?? ((feeds, days, seen, dir, o) =>
+    fetchRSS(feeds, days, seen, dir, { ...o, maxPerFeed: config.rss?.maxPerFeed ?? Infinity }));
   const newsSource = _sources?.newsapi ?? ((cfg, key, seen, dir, o) => fetchNewsAPI(cfg, key, seen, dir, o));
-  const scrapeSource = _sources?.scrape ?? ((targets, seen, dir, o) => fetchScraped(targets, seen, dir, o));
+  const scrapeSource = _sources?.scrape ?? ((cfg, seen, dir, o) => fetchScraped(cfg, seen, dir, o));
 
   let rssResults = [], newsResults = [], scrapeResults = [];
 
@@ -26,10 +27,12 @@ export async function runFetch(config, { apiKey = '', rootDir, fetchFn, _sources
     }
   } catch (e) { console.error('NewsAPI failed:', e.message); }
 
-  try { scrapeResults = await scrapeSource(config.scrape ?? [], seenUrls, articlesDir, opts); }
-  catch (e) { console.error('Scrape failed:', e.message); }
+  try {
+    if (config.scrape?.targets?.length || (Array.isArray(config.scrape) && config.scrape.length)) {
+      scrapeResults = await scrapeSource(config.scrape, seenUrls, articlesDir, opts);
+    }
+  } catch (e) { console.error('Scrape failed:', e.message); }
 
-  // When using injectable mock sources, persist their returned URLs into seenUrls
   if (_sources) {
     for (const r of [...rssResults, ...newsResults, ...scrapeResults]) {
       if (r.url) markSeen(seenUrls, r.url);
@@ -42,7 +45,6 @@ export async function runFetch(config, { apiKey = '', rootDir, fetchFn, _sources
   return { total, bySource: { rss: rssResults.length, newsapi: newsResults.length, scrape: scrapeResults.length } };
 }
 
-// CLI entry point
 if (process.argv[1] === new URL(import.meta.url).pathname) {
   const rootDir = new URL('..', import.meta.url).pathname.replace(/\/$/, '');
   const config = JSON.parse(await readFile(join(rootDir, 'config', 'sources.json'), 'utf8'));

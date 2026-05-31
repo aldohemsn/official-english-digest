@@ -1,34 +1,30 @@
 import RSSParser from 'rss-parser';
-import { JSDOM } from 'jsdom';
-import { Readability } from '@mozilla/readability';
 import { isSeen, markSeen } from '../lib/seen-urls.js';
 import { writeArticleFile, slugify } from '../lib/article.js';
+import { dateFromUrl, parseItemDate, isWithinMaxAge, toDateString } from '../lib/dates.js';
+import { extractBody } from '../lib/extract.js';
 
-const parser = new RSSParser();
+const parser = new RSSParser({
+  customFields: {
+    item: [
+      ['pubdate', 'pubdate'],
+      ['published', 'published'],
+      ['updated', 'updated'],
+    ],
+  },
+});
 
 function hostOf(url) {
   try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return 'unknown'; }
 }
 
-async function extractBody(url, fetchFn) {
-  try {
-    const res = await fetchFn(url);
-    if (!res.ok) return null;
-    const html = await res.text();
-    const dom = new JSDOM(html, { url });
-    const reader = new Readability(dom.window.document.cloneNode(true));
-    const parsed = reader.parse();
-    if (parsed?.textContent?.trim().length > 100) return parsed.textContent.trim();
-    // fallback: raw body text from original (unmodified) DOM
-    const bodyText = dom.window.document.body?.textContent?.trim() ?? '';
-    return bodyText.length > 100 ? bodyText : null;
-  } catch {
-    return null;
-  }
+function resolveItemDate(item, url) {
+  const pub = parseItemDate(item);
+  if (pub) return toDateString(pub);
+  return dateFromUrl(url);
 }
 
-export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = fetch } = {}) {
-  const cutoff = Date.now() - maxAgeDays * 86400_000;
+export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = fetch, maxPerFeed = Infinity } = {}) {
   const results = [];
 
   for (const feed of feeds) {
@@ -45,14 +41,20 @@ export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = 
       items = parsed.items ?? [];
     } catch { continue; }
 
+    let feedCount = 0;
     for (const item of items) {
+      if (feedCount >= maxPerFeed) break;
+
       const url = item.link;
       if (!url || isSeen(seenUrls, url)) continue;
-      const pub = item.pubDate ? new Date(item.pubDate) : null;
-      if (pub && pub.getTime() < cutoff) continue;
 
-      const date = (pub ?? new Date()).toISOString().slice(0, 10);
+      const date = resolveItemDate(item, url);
+      if (!date) continue;
+      if (!isWithinMaxAge(date, maxAgeDays)) continue;
+
       const body = await extractBody(url, fetchFn);
+      if (!body) continue;
+
       const meta = {
         id: `${date}-${slugify(item.title ?? 'untitled').slice(0, 50)}`,
         title: item.title ?? 'Untitled',
@@ -60,11 +62,12 @@ export async function fetchRSS(feeds, maxAgeDays, seenUrls, outDir, { fetchFn = 
         url,
         date,
         topics: feed.topics ?? [],
-        type: body ? 'full-text' : 'link-only',
+        type: 'full-text',
       };
-      const written = await writeArticleFile(outDir, meta, body ?? '');
+      const written = await writeArticleFile(outDir, meta, body);
       markSeen(seenUrls, url);
       results.push(written);
+      feedCount++;
     }
   }
   return results;

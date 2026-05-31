@@ -3,231 +3,42 @@
 
 ## 2026-05-31
 
-- [
-
-Young Chinese-Irish ballroom dancer goes international
-
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2eca0fa3108bc8c672190e.html
-
-) — chinadaily.com.cn · China, world
-- [
- Xi: Uproot undesirable work styles 
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2efdeaa3108bc8c6721925.html
-
-) — chinadaily.com.cn · China
-- [
- Xi-style diplomacy brings China closer to world 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e9898a3103f77d55ac36d.html
-
-) — chinadaily.com.cn · China
-- [
-
-Xi stresses nonstop efforts to fight undesirable work styles
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2dfdd2a310eefe3e9a273a.html
-
-) — chinadaily.com.cn · China
-- [
-
-Xi’an security guard dies trying to save suicidal woman
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e39c9a310eefe3e9a2ed4.html
-
-) — chinadaily.com.cn · China
-- [
- WWII memorials solemn reminders of war tragedy 
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2f1143a3108bc8c6721944.html
-
-) — chinadaily.com.cn · China, world
-- [
- Would-be suicide bomber sets off explosion in NYC 
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2ec18ca3108bc8c6721902.html
-
-) — chinadaily.com.cn · China, world
-- [
-
-World's largest automated container terminal starts operation in Shanghai
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2df96fa310eefe3e9a2716.html
-
-) — chinadaily.com.cn · China
-- [
-
-Welsh national side helping with Chinese soccer goals
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e57a1a31095b331af444e.html
-
-) — chinadaily.com.cn · China, world
-- [
-
-Water diversion project drives environmental improvements and provides new jobs for locals
-
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2f1b86a3108bc8c672199a.html
-
-) — chinadaily.com.cn · China
-- [
- US tax overhaul's lure could be deceptive 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2dbfe2a310eefe3e9a1472.html
-
-) — chinadaily.com.cn · China, world
-- [
- Universities champion new ideas 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e5a8aa31095b331af46bc.html
-
-) — chinadaily.com.cn · China, world
-- [
- UN political chief visits Pyongyang 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2de0ada310eefe3e9a15cd.html
-
-) — chinadaily.com.cn · China, world
-- [
- UK and China allow more direct flights 
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2ebd50a3108bc8c67218fe.html
-
-) — chinadaily.com.cn · China, world
-- [
-
-Udhauli festival marking migration of animals and birds celebrated in Nepal
-
-](
-
-http://www.chinadaily.com.cn/a/201712/10/WS5a2c86b0a310eefe3e9a137f.html
-
-) — chinadaily.com.cn · China, world
-- [
- Toronto marks 80th anniversary of Nanjing Massacre 
-](
-
-http://www.chinadaily.com.cn/a/201712/10/WS5a2d22d6a310eefe3e9a142b.html
-
-) — chinadaily.com.cn · China, world
-- [
- Top procuratorate investigates Sun Zhengcai 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e043aa310eefe3e9a2745.html
-
-) — chinadaily.com.cn · China
-- [
- The world in photos: Dec 4 - Dec 10 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2dc981a310eefe3e9a14ad.html
-
-) — chinadaily.com.cn · China, world
+- [WHO chief calls for reconsideration of travel bans as DR Congo battles Ebola outbreak](https://english.news.cn/africa/20260531/86d4d652788c4147a0b825cbef7c43b4/c.html) — english.news.cn · China, world
+- [U.S. military strikes alleged drug boat in eastern Pacific, killing 3](https://english.news.cn/northamerica/20260531/45a4113fbe0845e98bc76ed42a8bcff4/c.html) — english.news.cn · China, world
+- [Trump news at a glance: president in ‘excellent health’, his doctor says after routine medical check](https://www.theguardian.com/us-news/2026/may/31/trump-news-at-a-glance-president-in-excellent-health-his-doctor-says-after-routine-medical-check) — theguardian.com · US, politics
 - [The household battery revolution that could change energy bills … and the world](https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis) — theguardian.com · world, news
-- [
- Taiwan's New Party vows to help improve relations 
-](
+- [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Forging 'ironclad friendships' in an uncertain world](https://www.chinadaily.com.cn/a/202605/31/WS6a1b6ecda310d6866eb4b9cb.html) — chinadaily.com.cn · China
+- [Cuba’s blackouts leave high-rise residents with constant uncertainty](https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
 
-http://www.chinadaily.com.cn/a/201712/12/WS5a2f23eba3108bc8c67219f0.html
+## 2026-05-30
 
-) — chinadaily.com.cn · China
-- [
+- [Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump](https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump) — theguardian.com · world, news
+- [White House releases memo describing results of Trump’s health checkup](https://www.theguardian.com/us-news/2026/may/30/trump-health-memo-released) — theguardian.com · world, news
+- [What I Saw Inside an Ebola Ward](https://www.nytimes.com/video/world/africa/100000010929380/what-i-saw-inside-an-ebola-ward.html) — nytimes.com · world, US
+- [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) — techcrunch.com · technology, AI
+- [US, UK and Australia to develop underwater drone technology](https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth](https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Tobacco use tops 50 pct among Jordanians aged 15 and older: report](https://english.news.cn/20260530/783d5197601f4120a3d2e1319cde1cfb/c.html) — english.news.cn · China, world
+- [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/) — techcrunch.com · technology, AI
+- [Thousands rally in Tokyo against Takaichi government's dangerous policy moves](https://english.news.cn/20260530/3343323208f24d7ea29b396ca4c94459/c.html) — english.news.cn · China, world
+- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss) — bbc.co.uk · technology
+- [Sugarcane findings carry food security promise](https://www.chinadaily.com.cn/a/202605/30/WS6a1a54f0a310d6866eb4b8f6.html) — chinadaily.com.cn · China
+- [Scenic Dushanzi-Kuqa Highway to open on Monday](https://www.chinadaily.com.cn/a/202605/30/WS6a1ab5d9a310d6866eb4b97f.html) — chinadaily.com.cn · China
 
-Suzhou police catch gang selling fake Herbalife products
+## 2026-05-29
 
-](
+- [Why I’m grateful to the Pope for his encyclical on AI | Francine Prose](https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical) — theguardian.com · US, politics
+- [Why are journalists being subjected to search warrants in the US? | Caitlin Vogus](https://www.theguardian.com/commentisfree/2026/may/29/journalists-search-warrants-justice-department) — theguardian.com · US, politics
+- [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/) — techcrunch.com · technology, AI
+- [What does Blue Origin rocket mishap mean for Nasa's Moon mission?](https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/) — techcrunch.com · technology, AI
+- [Watch: Moment 14-year-old wins US national spelling bee](https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss) — bbc.com · world, news
+- [US, Mexico, Canada announce travel measures over Ebola risk as FIFA World Cup nears](https://www.chinadaily.com.cn/a/202605/29/WS6a18f09fa310d6866eb4b5c9.html) — chinadaily.com.cn · China, world
+- [US lacks grounds to attack Cuba, says Cuban diplomat](https://www.chinadaily.com.cn/a/202605/29/WS6a18e40ea310d6866eb4b4f7.html) — chinadaily.com.cn · China, world
 
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e6f45a3109f488237c967.html
+## 2026-05-28
 
-) — chinadaily.com.cn · China
-- [
-
-South San Francisco elects first Chinese-American mayor
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e2643a310eefe3e9a28fd.html
-
-) — chinadaily.com.cn · China, world
-- [
- Six killed in Hebei bath house fire 
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e6080a3109f488237c032.html
-
-) — chinadaily.com.cn · China
-- [
- Satellite lofted for first Arab country 
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html
-
-) — chinadaily.com.cn · China, world
-- [
- 'Right steps' point to a healthier China 
-](
-
-http://www.chinadaily.com.cn/a/201712/10/WS5a2d2e5ba310eefe3e9a1436.html
-
-) — chinadaily.com.cn · China, world
-- [
-
-Residents mobilized to protect environment in Tibet
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e46f3a310eefe3e9a2fe0.html
-
-) — chinadaily.com.cn · China
-- [
-
-PLA Navy stations women on Nansha Islands for the 1st time
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e7b2ea3109f488237c972.html
-
-) — chinadaily.com.cn · China
-- [
- Oldest Nanjing Massacre survivor dies at 100 
-](
-
-http://www.chinadaily.com.cn/a/201712/12/WS5a2f1571a3108bc8c6721964.html
-
-) — chinadaily.com.cn · China
-- [
-
-NGO helps epileptic boy realize racing dream in Zhejiang
-
-](
-
-http://www.chinadaily.com.cn/a/201712/11/WS5a2e62d8a3109f488237c209.html
-
-) — chinadaily.com.cn · China
-- [
- New York’s first snow of season arrives 
-](
-
-http://www.chinadaily.com.cn/a/201712/10/WS5a2cf0eea310eefe3e9a141e.html
-
-) — chinadaily.com.cn · China, world
+- [Why Paris may be the most important AI city outside Silicon Valley](https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/) — techcrunch.com · technology, AI
+- [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/) — techcrunch.com · technology, AI
+- [Why Fifa is being investigated over World Cup ticket prices](https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss) — bbc.com · business, economy

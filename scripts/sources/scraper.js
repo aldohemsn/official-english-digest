@@ -1,32 +1,78 @@
 import * as cheerio from 'cheerio';
 import { isSeen, markSeen } from '../lib/seen-urls.js';
 import { writeArticleFile, slugify } from '../lib/article.js';
+import { dateFromUrl, isWithinMaxAge } from '../lib/dates.js';
+import { extractArticle } from '../lib/extract.js';
 
 const ADAPTERS = {
   'chinadaily.com.cn': {
-    listLinks($) {
+    listLinks($, indexUrl) {
       const links = [];
-      $('h4 a, h3 a, .titleFontSize a').each((_, el) => {
-        const href = $(el).attr('href');
+      const seen = new Set();
+      $('a[href]').each((_, el) => {
+        const href = $(el).attr('href')?.trim();
+        if (!href) return;
+        const resolved = resolveChinaDailyUrl(href, indexUrl);
+        if (!resolved || !/\/a\/\d{6}\/\d{2}\/WS[a-f0-9]+\.html/i.test(resolved)) return;
+        if (seen.has(resolved)) return;
+        seen.add(resolved);
         const title = $(el).text().trim();
-        if (href && title) links.push({ href, title });
+        links.push({ href: resolved, title: title || null });
       });
       return links;
     },
-    extractArticle($) {
-      return {
-        title: $('#Title, h1').first().text().trim(),
-        body: $('#Content, .article_content').first().text().trim(),
-      };
-    },
-    resolveUrl(href, _indexUrl) {
-      if (href.startsWith('http')) return href;
-      return `https://www.chinadaily.com.cn${href}`;
+  },
+  'english.news.cn': {
+    listLinks($, indexUrl) {
+      const links = [];
+      const seen = new Set();
+      $('a[href]').each((_, el) => {
+        const href = $(el).attr('href')?.trim();
+        if (!href) return;
+        const resolved = resolveXinhuaUrl(href, indexUrl);
+        if (!resolved || !/\/\d{8}\/[a-f0-9]+\/c\.html/i.test(resolved)) return;
+        if (seen.has(resolved)) return;
+        seen.add(resolved);
+        const title = $(el).text().trim();
+        links.push({ href: resolved, title: title || null });
+      });
+      return links;
     },
   },
 };
 
-export async function fetchScraped(targets, seenUrls, outDir, { fetchFn = fetch } = {}) {
+function resolveChinaDailyUrl(href, indexUrl) {
+  try {
+    if (href.startsWith('//')) return `https:${href}`;
+    if (href.startsWith('http')) return href;
+    return new URL(href, indexUrl).href;
+  } catch {
+    return null;
+  }
+}
+
+function resolveXinhuaUrl(href, indexUrl) {
+  try {
+    if (href.startsWith('http')) return href;
+    return new URL(href, indexUrl).href;
+  } catch {
+    return null;
+  }
+}
+
+function hostOf(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return 'unknown'; }
+}
+
+export async function fetchScraped(
+  scrapeConfig,
+  seenUrls,
+  outDir,
+  { fetchFn = fetch } = {},
+) {
+  const targets = Array.isArray(scrapeConfig) ? scrapeConfig : (scrapeConfig?.targets ?? []);
+  const maxPerSource = scrapeConfig?.maxPerSource ?? Infinity;
+  const maxAgeDays = scrapeConfig?.maxAgeDays ?? 2;
   const results = [];
 
   for (const target of targets) {
@@ -40,36 +86,36 @@ export async function fetchScraped(targets, seenUrls, outDir, { fetchFn = fetch 
       indexHtml = await res.text();
     } catch { continue; }
 
-    const links = adapter.listLinks(cheerio.load(indexHtml));
+    const links = adapter.listLinks(cheerio.load(indexHtml), target.indexUrl);
+    let sourceCount = 0;
 
     for (const { href, title } of links) {
-      const url = adapter.resolveUrl(href, target.indexUrl);
+      if (sourceCount >= maxPerSource) break;
+
+      const url = href;
       if (isSeen(seenUrls, url)) continue;
 
-      let body = '';
-      let finalTitle = title;
-      try {
-        const res = await fetchFn(url);
-        if (res.ok) {
-          const extracted = adapter.extractArticle(cheerio.load(await res.text()));
-          if (extracted.title) finalTitle = extracted.title;
-          body = extracted.body;
-        }
-      } catch { /* link-only fallback */ }
+      const date = dateFromUrl(url);
+      if (!date) continue;
+      if (!isWithinMaxAge(date, maxAgeDays)) continue;
 
-      const date = new Date().toISOString().slice(0, 10);
+      const { title: extractedTitle, body } = await extractArticle(url, fetchFn);
+      if (!body) continue;
+
+      const finalTitle = extractedTitle || title || 'Untitled';
       const meta = {
         id: `${date}-${slugify(finalTitle).slice(0, 50)}`,
         title: finalTitle,
-        source: target.name,
+        source: hostOf(url),
         url,
         date,
         topics: target.topics ?? [],
-        type: body.length > 50 ? 'full-text' : 'link-only',
+        type: 'full-text',
       };
       const written = await writeArticleFile(outDir, meta, body);
       markSeen(seenUrls, url);
       results.push(written);
+      sourceCount++;
     }
   }
   return results;
