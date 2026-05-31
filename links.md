@@ -3,18 +3,35 @@
 
 ## 2026-05-30
 
+- [Ye and Travis Scott Concerts Canceled in Italy Over Security Fears](https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html) — nytimes.com · world, US
 - [Who’s the Vegas Retiree With the Big Offer for Greenland?](https://www.nytimes.com/2026/05/30/world/europe/greenland-trump-clifford-stanley.html) — nytimes.com · world, US
+- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) — nytimes.com · world, US
 - [Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict](https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html) — nytimes.com · world, US
 - [Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say](https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html) — nytimes.com · world, US
+- [The World Capital of French Fries Has a Problem: Too Many Potatoes](https://www.nytimes.com/2026/05/30/world/europe/europe-belgium-potato-surplus.html) — nytimes.com · world, US
+- [The Russian Drone That Hit Romania Also Hit European Confidence](https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html) — nytimes.com · world, US
+- [Season Pass](https://www.nytimes.com/2026/05/30/briefing/season-pass.html) — nytimes.com · world, US
+- [Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html) — nytimes.com · technology, US
 - [Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back](https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html) — nytimes.com · world, US
+- [Is a Canadian Car the Answer to Trump’s Tariffs? The Bricklin Shows the Risks.](https://www.nytimes.com/2026/05/30/world/canada/carney-auto-tariffs-bricklin-car.html) — nytimes.com · world, US
 - [Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal](https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal) — nytimes.com · world, US
+- [Iran’s Team Trains in Limbo for World Cup Overshadowed by War](https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html) — nytimes.com · world, US
+- [Inside the Ebola Epicenter, the Virus Rages With Little to Stop It](https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html) — nytimes.com · world, US
 - [How Curry Shops Got Caught in Japan’s Immigration Crackdown](https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html) — nytimes.com · world, US
+- [Hegseth’s Message to Asian Partners: Do More to Get More](https://www.nytimes.com/2026/05/30/world/asia/hegseth-asia-security-shangri-la.html) — nytimes.com · world, US
+- [Edgar Morin, ‘Grandfather’ of French Intellectuals, Dies at 104](https://www.nytimes.com/2026/05/30/world/europe/edgar-morin-dead.html) — nytimes.com · world, US
+- [Colombia’s Elections Are a Crucial Test for the Left in Latin America](https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html) — nytimes.com · world, US
 - [Canadian Man Pleads Guilty to Aiding 14 Suicides](https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html) — nytimes.com · world, US
+- [As Trump Mulls Decision About Iran War Deal, a Restive Middle East Waits to Hear](https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html) — nytimes.com · world, US
 - [After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.](https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html) — nytimes.com · world, US
+- [Across the Middle East, Muslims Mark Eid Amid War and Crisis](https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html) — nytimes.com · world, US
+- [A Big Bang, a Fire and Panic as War Enters Romanian Homes](https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html) — nytimes.com · world, US
+- [5 Are Freed in Laos Cave Rescue After More Than a Week](https://www.nytimes.com/2026/05/30/world/asia/laos-cave-rescue-four.html) — nytimes.com · world, US
 
 ## 2026-05-29
 
 - [What to Know About the Drones That Have Been Crossing Into Romania](https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html) — nytimes.com · world, US
+- [What’s Next for Blue Origin After Rocket Explosion](https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html) — nytimes.com · technology, US
 - [U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz](https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html) — nytimes.com · world, US
 - [U.N. Adds Israeli and Russian Forces to Sexual Violence List](https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html) — nytimes.com · world, US
 - [The Man Turning the Cockroach Into a Gen-Z Movement in India](https://www.nytimes.com/2026/05/28/world/asia/cockroach-janta-party-india-movement.html) — nytimes.com · world, US
@@ -29,6 +46,7 @@
 - [Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist](https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html) — nytimes.com · world, US
 - [Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal) — nytimes.com · world, US
 - [Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.](https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html) — nytimes.com · world, US
+- [Interesting Times: Why Are We Still Driving?](https://www.nytimes.com/2026/05/29/podcasts/29hardfork-waymo-interesting-times.html) — nytimes.com · technology, US
 - [How Fuel Price Shocks Rattled a Remote New Zealand Village](https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html) — nytimes.com · world, US
 - [Here’s the latest.](https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal/heres-the-latest) — nytimes.com · world, US
 - [France’s Far Right Has 2 Leaders. They Don’t Always Have One Voice.](https://www.nytimes.com/2026/05/29/world/europe/france-presidential-election-le-pen-bardella.html) — nytimes.com · world, US
