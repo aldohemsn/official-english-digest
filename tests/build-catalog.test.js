@@ -101,6 +101,22 @@ test('selectWithSourceCap prefers full-text only when requested', async () => {
   assert.equal(picked[0].type, 'full-text');
 });
 
+test('buildCatalog ignores digest-*.md archive files in articles dir', async () => {
+  const root = await setup();
+  await writeArticleFile(join(root, 'articles'), {
+    id: '2026-05-25-article', title: 'Real Article', source: 'gov.uk',
+    url: 'https://gov.uk/1', date: '2026-05-25', topics: ['UK'], type: 'full-text',
+  }, 'Body content here.');
+  // Place a digest archive file that should be skipped
+  const { writeFile } = await import('node:fs/promises');
+  await writeFile(join(root, 'articles', 'digest-2026-05-25.md'), '# Daily Reading Digest\nUpdated: 2026-05-25\n', 'utf8');
+
+  const catalog = await buildCatalog(root);
+  assert.equal(catalog.articles.length, 1);
+  assert.equal(catalog.articles[0].id, '2026-05-25-article');
+  await rm(root, { recursive: true });
+});
+
 test('buildCatalog handles empty articles directory', async () => {
   const root = await setup();
   const catalog = await buildCatalog(root);
