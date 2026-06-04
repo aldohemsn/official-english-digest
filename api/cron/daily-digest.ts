@@ -4,7 +4,7 @@
  * Env: CRON_SECRET, DIGEST_SMTP_*, DIGEST_TO_EMAIL — see scripts/env.digest.example
  */
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { readFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { buildSimpleDigestBodies } from '../lib/digestFormatHtml.js';
 import { isReadOnlyDeployRoot, prepareWorkDir } from '../lib/prepareWorkDir.js';
@@ -54,6 +54,15 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const sent = await sendDigestSmtp({ subject, text, html });
     if (sent.ok === false) {
       return res.status(502).json({ error: sent.error, fetched: fetchResult.total });
+    }
+
+    const dayMatch = subject.match(/(\d{4}-\d{2}-\d{2})/);
+    if (dayMatch) {
+      try {
+        await writeFile(join(rootDir, 'articles', `digest-${dayMatch[1]}.md`), digestMarkdown, 'utf8');
+      } catch {
+        /* archive is best-effort */
+      }
     }
 
     return res.status(200).json({

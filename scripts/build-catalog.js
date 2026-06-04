@@ -105,7 +105,7 @@ export async function buildCatalog(rootDir) {
   try { files = await readdir(articlesDir); } catch { /* empty */ }
 
   const articles = [];
-  for (const file of files.filter(f => f.endsWith('.md')).sort().reverse()) {
+  for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('digest-')).sort().reverse()) {
     const { data: meta } = matter(await readFile(join(articlesDir, file), 'utf8'));
     articles.push({
       id: meta.id, title: meta.title, source: meta.source, url: meta.url,
