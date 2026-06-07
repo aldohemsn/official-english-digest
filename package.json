@@ -8,7 +8,7 @@
     "fetch": "node scripts/fetch.js",
     "build": "node scripts/build-catalog.js",
     "purge": "node scripts/purge-bad-articles.js",
-    "test": "node --test 'tests/**/*.test.js'",
+    "test": "node --experimental-strip-types --test 'tests/**/*.test.js' 'tests/**/*.test.ts'",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
