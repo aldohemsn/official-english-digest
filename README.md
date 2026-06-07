@@ -115,7 +115,7 @@ bash scripts/configure-vercel-digest-env.sh
 
 ### Serverless notes
 
-Vercel functions have a **read-only** filesystem. The cron handler copies `articles/` and `.seen-urls.json` from the deployment bundle into `/tmp` before fetch/build. Writes are discarded when the function exits; only the email is delivered.
+Vercel functions have a **read-only** filesystem. The cron handler copies `articles/` and `.seen-urls.json` from the deployment bundle into `/tmp` before fetch/build. Local writes are discarded when the function exits; persistence happens via email delivery and a GitHub API commit of the daily archive.
 
 ## English coach prompts
 
