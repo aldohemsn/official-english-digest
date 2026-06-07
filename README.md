@@ -92,6 +92,9 @@ Set in **Project → Settings → Environment Variables**, then **Redeploy**:
 | Variable | Required | Purpose |
 |----------|----------|---------|
 | `CRON_SECRET` | yes | Cron / manual trigger auth (`openssl rand -hex 24`) |
+| `GITHUB_TOKEN` | yes | PAT with `repo` (Contents write) scope — commits digest archive |
+| `GITHUB_REPO` | yes | `owner/repo`, e.g. `aldohemsn/official-english-digest` |
+| `GITHUB_BRANCH` | no | Branch to commit to (default `main`) |
 | `DIGEST_SMTP_USER` | yes | SMTP login (e.g. 163 mailbox) |
 | `DIGEST_SMTP_PASS` | yes | 163 **client auth code** (not web login password) |
 | `DIGEST_TO_EMAIL` | yes | Recipient email |
@@ -116,4 +119,4 @@ Vercel functions have a **read-only** filesystem. The cron handler copies `artic
 
 ## English coach prompts
 
-See the [English coach spec](https://github.com/aldohe/grok-audio/blob/main/docs/superpowers/specs/2026-05-25-grok-english-coach-prompt.md) for session instructions (platform-agnostic block included).
+See the [English coach spec](https://github.com/aldohemsn/grok-audio/blob/main/docs/superpowers/specs/2026-05-25-grok-english-coach-prompt.md) for session instructions (Claude, Grok, platform-agnostic blocks).
