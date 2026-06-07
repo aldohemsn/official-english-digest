@@ -1,14 +1,15 @@
 /**
  * Daily Official English Digest Cron (Vercel Serverless).
  *
- * Env: CRON_SECRET, DIGEST_SMTP_*, DIGEST_TO_EMAIL — see scripts/env.digest.example
+ * Env: CRON_SECRET, DIGEST_SMTP_*, DIGEST_TO_EMAIL, GITHUB_TOKEN, GITHUB_REPO — see scripts/env.digest.example
  */
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { buildSimpleDigestBodies } from '../lib/digestFormatHtml.js';
 import { isReadOnlyDeployRoot, prepareWorkDir } from '../lib/prepareWorkDir.js';
 import { authorizeCron, sendDigestSmtp } from '../lib/sendDigestSmtp.js';
+import { commitDigestToGitHub } from '../lib/commitDigestToGitHub.js';
 import { runFetch } from '../../scripts/fetch.js';
 import { buildCatalog } from '../../scripts/build-catalog.js';
 
@@ -34,6 +35,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(401).json({ error: 'Unauthorized' });
   }
 
+  if (!process.env.GITHUB_TOKEN || !process.env.GITHUB_REPO) {
+    return res.status(500).json({ error: 'GITHUB_TOKEN and GITHUB_REPO env vars are required' });
+  }
+
   const deployRoot = process.cwd();
   const rootDir = isReadOnlyDeployRoot() ? await prepareWorkDir(deployRoot) : deployRoot;
 
@@ -57,12 +62,14 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     }
 
     const dayMatch = subject.match(/(\d{4}-\d{2}-\d{2})/);
-    if (dayMatch) {
-      try {
-        await writeFile(join(rootDir, 'articles', `digest-${dayMatch[1]}.md`), digestMarkdown, 'utf8');
-      } catch {
-        /* archive is best-effort */
-      }
+    const day = dayMatch?.[1];
+    if (!day) {
+      return res.status(500).json({ ok: false, error: 'could not parse date from digest subject' });
+    }
+
+    const committed = await commitDigestToGitHub(day, digestMarkdown);
+    if (committed.ok === false) {
+      return res.status(502).json({ ok: false, error: committed.error, fetched: fetchResult.total });
     }
 
     return res.status(200).json({
@@ -70,6 +77,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       subject,
       fetched: fetchResult.total,
       bySource: fetchResult.bySource,
+      committed: true,
     });
   } catch (e: unknown) {
     const msg = e instanceof Error ? e.message : String(e);
